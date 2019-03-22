@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionVectorConstructor", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_COMBINE.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
