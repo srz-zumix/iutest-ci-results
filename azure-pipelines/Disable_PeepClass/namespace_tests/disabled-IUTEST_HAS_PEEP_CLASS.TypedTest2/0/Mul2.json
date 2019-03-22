@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Mul2", 
+    "classname": "disabled-IUTEST_HAS_PEEP_CLASS.TypedTest2/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "float"
+    }
+}
