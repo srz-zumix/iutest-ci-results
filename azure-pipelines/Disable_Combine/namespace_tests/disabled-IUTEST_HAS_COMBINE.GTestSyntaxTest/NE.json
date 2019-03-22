@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NE", 
+    "classname": "disabled-IUTEST_HAS_COMBINE.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
