@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FatalFailure", 
+    "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.002", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
