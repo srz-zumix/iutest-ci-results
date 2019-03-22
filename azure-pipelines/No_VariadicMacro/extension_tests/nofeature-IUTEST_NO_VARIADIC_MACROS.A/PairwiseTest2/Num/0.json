@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Num/0", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.A/PairwiseTest2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Num/0": "(1, 0)", 
+        "Num/1": "(1, 1)", 
+        "Num/2": "(0, 0)", 
+        "skipped": "0", 
+        "Num/3": "(0, 1)"
+    }
+}

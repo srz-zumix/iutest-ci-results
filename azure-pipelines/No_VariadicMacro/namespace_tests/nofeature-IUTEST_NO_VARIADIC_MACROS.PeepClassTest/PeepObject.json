@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PeepObject", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.PeepClassTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

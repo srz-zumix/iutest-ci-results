@@ -1,0 +1,13 @@
+{
+    "status": "run", 
+    "name": "Dummy/2", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.P4/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "1", 
+        "Dummy/0": "-1340199058", 
+        "Dummy/1": "0"
+    }
+}
