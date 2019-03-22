@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Check", 
+    "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.FlagTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

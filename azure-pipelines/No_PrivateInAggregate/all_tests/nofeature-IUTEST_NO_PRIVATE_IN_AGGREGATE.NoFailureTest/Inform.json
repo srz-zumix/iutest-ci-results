@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Inform", 
+    "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.NoFailureTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
