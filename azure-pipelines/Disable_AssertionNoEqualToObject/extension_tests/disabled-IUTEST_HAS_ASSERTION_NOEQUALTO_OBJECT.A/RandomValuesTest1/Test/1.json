@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/1", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_NOEQUALTO_OBJECT.A/RandomValuesTest1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-1877751125", 
+        "Test/2": "-538948796", 
+        "Test/1": "1677234692", 
+        "Test/0": "1225380765", 
+        "Test/4": "-1753123313"
+    }
+}

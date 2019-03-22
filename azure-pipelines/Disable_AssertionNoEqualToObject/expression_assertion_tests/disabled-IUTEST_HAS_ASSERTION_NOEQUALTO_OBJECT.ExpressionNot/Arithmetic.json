@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Arithmetic", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_NOEQUALTO_OBJECT.ExpressionNot", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

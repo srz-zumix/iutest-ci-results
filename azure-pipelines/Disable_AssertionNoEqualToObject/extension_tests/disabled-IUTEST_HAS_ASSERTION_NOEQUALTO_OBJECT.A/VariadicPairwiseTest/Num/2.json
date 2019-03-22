@@ -1,0 +1,18 @@
+{
+    "status": "run", 
+    "name": "Num/2", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_NOEQUALTO_OBJECT.A/VariadicPairwiseTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Num/0": "(0, 0, 0, 0, 0, 1, 0, 0, 0, 0)", 
+        "Num/1": "(1, 0, 1, 1, 1, 0, 1, 0, 1, 1)", 
+        "Num/2": "(0, 1, 0, 1, 0, 1, 1, 1, 1, 1)", 
+        "Num/3": "(1, 1, 0, 0, 1, 0, 0, 0, 0, 1)", 
+        "Num/4": "(0, 0, 1, 0, 1, 0, 1, 1, 0, 0)", 
+        "Num/5": "(1, 1, 1, 1, 0, 1, 0, 1, 1, 0)", 
+        "Num/6": "(0, 1, 0, 0, 1, 1, 1, 0, 1, 0)", 
+        "Num/7": "(0, 0, 1, 1, 0, 0, 1, 0, 0, 0)"
+    }
+}

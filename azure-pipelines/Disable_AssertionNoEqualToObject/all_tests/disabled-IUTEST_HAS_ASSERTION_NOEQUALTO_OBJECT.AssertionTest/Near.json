@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Near", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_NOEQUALTO_OBJECT.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
