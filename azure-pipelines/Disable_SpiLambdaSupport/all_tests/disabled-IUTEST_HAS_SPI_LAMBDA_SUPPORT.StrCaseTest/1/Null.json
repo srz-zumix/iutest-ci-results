@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Null", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.StrCaseTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "wchar_t"
+    }
+}

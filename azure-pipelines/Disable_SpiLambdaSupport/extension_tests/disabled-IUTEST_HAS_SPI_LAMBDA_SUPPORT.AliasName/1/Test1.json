@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Test1", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.AliasName/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "long"
+    }
+}
