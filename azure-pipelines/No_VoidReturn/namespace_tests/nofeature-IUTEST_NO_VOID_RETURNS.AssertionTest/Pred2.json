@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Pred2", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

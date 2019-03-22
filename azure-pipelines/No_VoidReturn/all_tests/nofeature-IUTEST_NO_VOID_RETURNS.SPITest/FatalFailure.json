@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FatalFailure", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.005", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
