@@ -1,0 +1,23 @@
+{
+    "status": "run", 
+    "name": "Dummy/5", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSARE.A4/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/10": "7", 
+        "Dummy/11": "8", 
+        "Dummy/12": "9", 
+        "Dummy/8": "5", 
+        "Dummy/9": "6", 
+        "Dummy/6": "3", 
+        "Dummy/7": "4", 
+        "Dummy/4": "1", 
+        "Dummy/5": "2", 
+        "Dummy/2": "0", 
+        "Dummy/3": "1", 
+        "Dummy/0": "1", 
+        "Dummy/1": "10"
+    }
+}

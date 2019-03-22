@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "TestInfoCount", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSARE.TestInformation", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "1"
+    }
+}
