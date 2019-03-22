@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Mul2", 
+    "classname": "disabled-IUTEST_HAS_VALUESGEN.My12/TypeParamTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "short"
+    }
+}

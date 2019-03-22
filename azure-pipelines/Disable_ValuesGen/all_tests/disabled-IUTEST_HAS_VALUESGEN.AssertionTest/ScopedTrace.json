@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ScopedTrace", 
+    "classname": "disabled-IUTEST_HAS_VALUESGEN.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
