@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Get", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.MultiTypedTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "iutest::Types<int, double>"
+    }
+}
