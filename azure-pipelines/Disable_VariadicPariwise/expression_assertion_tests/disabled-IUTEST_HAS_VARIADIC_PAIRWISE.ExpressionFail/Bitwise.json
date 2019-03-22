@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bitwise", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_PAIRWISE.ExpressionFail", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
