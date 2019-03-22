@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "False", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.ExpressionMacro", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

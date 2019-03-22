@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Num/2", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.A/PairwiseTest2", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "Num/0": "(0, 0)", 
+        "Num/1": "(0, 1)", 
+        "Num/2": "(1, 0)", 
+        "skipped": "0", 
+        "Num/3": "(1, 1)"
+    }
+}

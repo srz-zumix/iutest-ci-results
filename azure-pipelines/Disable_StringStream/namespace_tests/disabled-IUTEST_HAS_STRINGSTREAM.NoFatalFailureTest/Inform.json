@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Inform", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.NoFatalFailureTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Bar", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.TypedFoo_DISABLED_/0", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "int"
+    }
+}
