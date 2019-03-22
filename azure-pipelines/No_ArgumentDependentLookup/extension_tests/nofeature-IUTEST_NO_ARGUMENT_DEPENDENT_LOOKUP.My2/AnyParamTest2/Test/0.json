@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.My2/AnyParamTest2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/0": "8-Byte object < 40 B4 5D 01 00 00 00 00 >"
+    }
+}
