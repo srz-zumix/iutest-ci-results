@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "U32String", 
+    "classname": "disabled-IUTEST_HAS_PRINT_TO.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionAnyThrow", 
+    "classname": "disabled-IUTEST_HAS_PRINT_TO.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
