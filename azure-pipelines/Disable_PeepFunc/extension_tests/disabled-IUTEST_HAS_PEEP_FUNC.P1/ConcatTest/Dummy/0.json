@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Dummy/0", 
+    "classname": "disabled-IUTEST_HAS_PEEP_FUNC.P1/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "1", 
+        "Dummy/3": "10", 
+        "Dummy/0": "0", 
+        "Dummy/1": "1"
+    }
+}

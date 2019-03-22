@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Check", 
+    "classname": "disabled-IUTEST_HAS_PEEP_FUNC.FlagTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
