@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/3", 
+    "classname": "disabled-IUTEST_HAS_SOCKET.Random03_01/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-757117924", 
+        "Test/2": "1287955370", 
+        "Test/1": "-952472434", 
+        "Test/0": "-1637747947", 
+        "Test/4": "1136129033"
+    }
+}
