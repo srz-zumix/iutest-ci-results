@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Null", 
+    "classname": "disabled-IUTEST_HAS_EXCEPTIONS.StrTest/2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "char16_t"
+    }
+}
