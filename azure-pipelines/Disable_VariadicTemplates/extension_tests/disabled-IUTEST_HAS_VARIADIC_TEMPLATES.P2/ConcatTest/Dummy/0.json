@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Dummy/0", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_TEMPLATES.P2/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "0", 
+        "Dummy/3": "1", 
+        "Dummy/0": "1", 
+        "Dummy/1": "10"
+    }
+}
