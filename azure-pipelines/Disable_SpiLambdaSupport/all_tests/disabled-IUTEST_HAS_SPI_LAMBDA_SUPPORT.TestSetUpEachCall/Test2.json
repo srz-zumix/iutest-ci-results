@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Test2", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.TestSetUpEachCall", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
