@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Null", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.StrCaseTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "char"
+    }
+}

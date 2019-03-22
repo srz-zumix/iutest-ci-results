@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "StaticMul2", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.My3/TypeParamTest3/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "short"
+    }
+}
