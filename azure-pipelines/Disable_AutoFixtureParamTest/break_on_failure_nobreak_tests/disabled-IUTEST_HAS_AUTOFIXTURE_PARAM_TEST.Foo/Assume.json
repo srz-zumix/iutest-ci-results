@@ -1,0 +1,16 @@
+{
+    "status": "run", 
+    "skipped": [
+        {
+            "text": null, 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "Assume", 
+    "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "2"
+    }
+}

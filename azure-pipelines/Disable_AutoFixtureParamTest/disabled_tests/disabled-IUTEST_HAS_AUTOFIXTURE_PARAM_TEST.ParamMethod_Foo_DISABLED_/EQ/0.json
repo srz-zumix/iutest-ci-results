@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "EQ/0", 
+    "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.ParamMethod_Foo_DISABLED_", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "EQ/0": "0, 0"
+    }
+}

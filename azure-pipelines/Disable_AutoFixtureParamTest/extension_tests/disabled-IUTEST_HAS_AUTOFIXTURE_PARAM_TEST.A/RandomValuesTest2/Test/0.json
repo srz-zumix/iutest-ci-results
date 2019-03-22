@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.A/RandomValuesTest2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "'G'", 
+        "Test/2": "'V'", 
+        "Test/1": "-23", 
+        "Test/0": "-11", 
+        "Test/4": "-90"
+    }
+}
