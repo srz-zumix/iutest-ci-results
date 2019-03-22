@@ -1,0 +1,13 @@
+{
+    "status": "run", 
+    "name": "Dummy/0", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.P4/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "1", 
+        "Dummy/0": "-1742223483", 
+        "Dummy/1": "0"
+    }
+}

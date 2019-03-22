@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Matcher", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
