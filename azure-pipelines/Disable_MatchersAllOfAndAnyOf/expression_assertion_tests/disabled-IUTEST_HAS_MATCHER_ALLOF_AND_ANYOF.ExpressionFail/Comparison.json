@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Comparison", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ALLOF_AND_ANYOF.ExpressionFail", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

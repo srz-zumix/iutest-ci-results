@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "PINF", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ALLOF_AND_ANYOF.FloatingpointTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "double"
+    }
+}
