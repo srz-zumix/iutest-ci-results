@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Monadic", 
+    "classname": "disabled-IUTEST_HAS_PEEP_FUNC.ExpressionNotFail", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
