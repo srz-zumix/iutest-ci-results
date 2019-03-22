@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/1", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.Random03_00/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "260", 
+        "Test/2": "835", 
+        "Test/1": "999", 
+        "Test/0": "843", 
+        "Test/4": "114"
+    }
+}
