@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PeepA2", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.ProdTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

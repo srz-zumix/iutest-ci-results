@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Logical", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.ExpressionFail", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
