@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "UnitTest", 
+    "classname": "disabled-IUTEST_HAS_CSVPARAMS.Compatibility", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
