@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PeepObject2", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.PeepClassTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "CanBeAccessed", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.CommandLineFlagTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

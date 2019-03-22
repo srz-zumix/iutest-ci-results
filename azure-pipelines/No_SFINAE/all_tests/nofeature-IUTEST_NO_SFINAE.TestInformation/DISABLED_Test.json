@@ -1,0 +1,17 @@
+{
+    "status": "notrun", 
+    "skipped": [
+        {
+            "text": null, 
+            "message": "disabled test.", 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "DISABLED_Test", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.TestInformation", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "1"
+    }
+}
