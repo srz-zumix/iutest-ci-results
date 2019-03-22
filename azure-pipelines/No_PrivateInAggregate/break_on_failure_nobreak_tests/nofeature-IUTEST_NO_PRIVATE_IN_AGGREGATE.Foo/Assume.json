@@ -1,0 +1,16 @@
+{
+    "status": "run", 
+    "skipped": [
+        {
+            "text": null, 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "Assume", 
+    "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "2"
+    }
+}
