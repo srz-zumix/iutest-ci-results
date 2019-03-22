@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ValueSTRCASEEQ", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.Exception", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

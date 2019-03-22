@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Dummy/3", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.A1/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "1", 
+        "Dummy/3": "10", 
+        "Dummy/0": "0", 
+        "Dummy/1": "1"
+    }
+}
