@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PeepObject", 
+    "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.PeepClassTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

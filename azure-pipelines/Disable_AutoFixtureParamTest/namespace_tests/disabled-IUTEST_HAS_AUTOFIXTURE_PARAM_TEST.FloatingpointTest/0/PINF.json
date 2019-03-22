@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "PINF", 
+    "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.FloatingpointTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "float"
+    }
+}
