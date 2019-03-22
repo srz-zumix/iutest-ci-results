@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionThrow", 
+    "classname": "disabled-IUTEST_HAS_CONCAT.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
