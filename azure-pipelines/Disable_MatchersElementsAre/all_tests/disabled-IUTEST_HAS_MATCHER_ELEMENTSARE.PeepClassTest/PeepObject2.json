@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PeepObject2", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSARE.PeepClassTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

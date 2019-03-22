@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "BadCast/0", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSARE.My1/WithAnyParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "BadCast/0": "0", 
+        "skipped": "0", 
+        "Test/0": "0"
+    }
+}
