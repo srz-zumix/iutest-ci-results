@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Test", 
+    "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.TestFixtureLikeVCUnit", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
