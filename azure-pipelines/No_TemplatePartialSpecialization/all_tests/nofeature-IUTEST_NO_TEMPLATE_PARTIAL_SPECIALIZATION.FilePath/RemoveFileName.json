@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "RemoveFileName", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.FilePath", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

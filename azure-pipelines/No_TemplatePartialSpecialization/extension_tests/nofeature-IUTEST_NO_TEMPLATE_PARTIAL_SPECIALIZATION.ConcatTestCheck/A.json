@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "A", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.ConcatTestCheck", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

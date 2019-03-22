@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.A/RandomValuesTest3", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "0.193436", 
+        "Test/2": "0.529786", 
+        "Test/1": "0.853896", 
+        "Test/0": "0.682987", 
+        "Test/4": "0.363866"
+    }
+}
