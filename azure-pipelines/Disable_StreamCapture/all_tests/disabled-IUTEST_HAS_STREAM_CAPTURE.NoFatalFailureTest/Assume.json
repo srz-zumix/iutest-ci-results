@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Assume", 
+    "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.NoFatalFailureTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
