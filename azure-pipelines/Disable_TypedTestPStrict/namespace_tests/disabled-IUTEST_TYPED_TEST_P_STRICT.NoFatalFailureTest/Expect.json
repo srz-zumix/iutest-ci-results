@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Expect", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.NoFatalFailureTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
