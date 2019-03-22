@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Check", 
+    "classname": "default.Config", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
