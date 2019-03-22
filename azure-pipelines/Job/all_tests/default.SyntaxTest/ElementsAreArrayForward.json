@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ElementsAreArrayForward", 
+    "classname": "default.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NonFatalFailure2", 
+    "classname": "default.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.002", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
