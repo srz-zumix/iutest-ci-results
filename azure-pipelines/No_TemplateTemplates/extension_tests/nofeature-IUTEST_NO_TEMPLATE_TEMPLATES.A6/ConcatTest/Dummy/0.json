@@ -1,0 +1,13 @@
+{
+    "status": "run", 
+    "name": "Dummy/0", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.A6/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "38876551", 
+        "Dummy/0": "0", 
+        "Dummy/1": "1"
+    }
+}
