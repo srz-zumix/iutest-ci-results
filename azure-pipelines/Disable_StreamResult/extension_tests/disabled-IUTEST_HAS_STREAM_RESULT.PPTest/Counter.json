@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Counter", 
+    "classname": "disabled-IUTEST_HAS_STREAM_RESULT.PPTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

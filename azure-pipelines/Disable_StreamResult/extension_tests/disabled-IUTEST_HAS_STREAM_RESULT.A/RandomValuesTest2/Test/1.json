@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/1", 
+    "classname": "disabled-IUTEST_HAS_STREAM_RESULT.A/RandomValuesTest2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-46", 
+        "Test/2": "'>'", 
+        "Test/1": "'y'", 
+        "Test/0": "'l'", 
+        "Test/4": "-37"
+    }
+}
