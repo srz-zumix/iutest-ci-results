@@ -1,0 +1,13 @@
+{
+    "status": "run", 
+    "name": "EQ/1", 
+    "classname": "disabled-IUTEST_HAS_REGEX.ParamMethodTestFixed", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "EQ/2": "2, 2", 
+        "EQ/1": "1, 1", 
+        "skipped": "0", 
+        "EQ/0": "0, 0"
+    }
+}
