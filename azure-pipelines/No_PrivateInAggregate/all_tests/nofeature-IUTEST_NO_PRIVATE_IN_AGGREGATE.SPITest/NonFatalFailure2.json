@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NonFatalFailure2", 
+    "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.002", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
