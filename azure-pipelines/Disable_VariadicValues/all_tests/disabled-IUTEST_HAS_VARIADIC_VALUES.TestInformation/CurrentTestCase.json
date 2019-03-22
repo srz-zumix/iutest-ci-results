@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "CurrentTestCase", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_VALUES.TestInformation", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "1"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "EQ_COLLECTIONS", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_VALUES.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
