@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "CanBeAccessed", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSAREARRAYFORWARD.CommandLineFlagTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
