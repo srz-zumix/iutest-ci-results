@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "RemoveExtension", 
+    "classname": "disabled-IUTEST_HAS_CONCAT.FilePath", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
