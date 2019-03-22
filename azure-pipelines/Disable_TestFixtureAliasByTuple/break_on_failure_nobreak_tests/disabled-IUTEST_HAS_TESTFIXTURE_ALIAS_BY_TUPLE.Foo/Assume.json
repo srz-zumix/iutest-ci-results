@@ -1,0 +1,16 @@
+{
+    "status": "run", 
+    "skipped": [
+        {
+            "text": null, 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "Assume", 
+    "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "2"
+    }
+}
