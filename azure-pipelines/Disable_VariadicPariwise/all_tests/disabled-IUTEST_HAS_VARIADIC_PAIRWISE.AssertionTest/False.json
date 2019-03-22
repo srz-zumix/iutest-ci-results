@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "False", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_PAIRWISE.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
