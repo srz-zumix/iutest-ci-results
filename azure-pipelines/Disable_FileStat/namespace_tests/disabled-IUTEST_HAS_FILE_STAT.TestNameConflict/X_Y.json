@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "X_Y", 
+    "classname": "disabled-IUTEST_HAS_FILE_STAT.TestNameConflict", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

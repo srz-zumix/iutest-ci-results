@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "disabled-IUTEST_HAS_FILE_STAT.Random03_2/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "666", 
+        "Test/2": "368", 
+        "Test/1": "83", 
+        "Test/0": "249", 
+        "Test/4": "429"
+    }
+}
