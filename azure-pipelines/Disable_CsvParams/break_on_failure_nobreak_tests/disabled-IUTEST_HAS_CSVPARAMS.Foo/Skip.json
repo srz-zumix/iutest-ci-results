@@ -1,0 +1,17 @@
+{
+    "status": "run", 
+    "skipped": [
+        {
+            "text": null, 
+            "message": "break_on_failure_nobreak_tests.cpp:22: Skipped. ", 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "Skip", 
+    "classname": "disabled-IUTEST_HAS_CSVPARAMS.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "2"
+    }
+}
