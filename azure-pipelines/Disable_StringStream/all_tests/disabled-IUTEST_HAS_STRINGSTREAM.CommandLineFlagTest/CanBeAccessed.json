@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "CanBeAccessed", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.CommandLineFlagTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

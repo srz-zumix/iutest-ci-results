@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NoThrow", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.Exception", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

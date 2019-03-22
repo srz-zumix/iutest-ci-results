@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Friend", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.ProdFixtureTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

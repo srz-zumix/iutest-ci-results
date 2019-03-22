@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.My1/WithAnyParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "BadCast/0": "0", 
+        "skipped": "0", 
+        "Test/0": "0"
+    }
+}

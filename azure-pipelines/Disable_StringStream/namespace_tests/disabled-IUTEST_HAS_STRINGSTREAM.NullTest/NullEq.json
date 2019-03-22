@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NullEq", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.NullTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
