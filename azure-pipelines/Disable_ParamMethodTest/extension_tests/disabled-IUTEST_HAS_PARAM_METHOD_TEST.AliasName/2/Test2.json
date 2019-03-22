@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Test2", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.AliasName/2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "short"
+    }
+}
