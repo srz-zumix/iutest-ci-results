@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Friend", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.ProdFixtureTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

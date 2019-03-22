@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.A/RandomValuesTest3", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "0.899731", 
+        "Test/2": "0.709039", 
+        "Test/1": "0.327143", 
+        "Test/0": "0.318145", 
+        "Test/4": "0.221301"
+    }
+}

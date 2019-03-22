@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Throw", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.ExceptionFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

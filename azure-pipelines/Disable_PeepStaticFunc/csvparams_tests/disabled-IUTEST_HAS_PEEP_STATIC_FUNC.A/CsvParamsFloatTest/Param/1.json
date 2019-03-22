@@ -1,0 +1,20 @@
+{
+    "status": "run", 
+    "name": "Param/1", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.A/CsvParamsFloatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Num/0": "0.1", 
+        "Num/1": "0.2", 
+        "Num/2": "0.3", 
+        "Num/3": "3.14", 
+        "Num/4": "-1.1", 
+        "Param/4": "-1.1", 
+        "Param/1": "0.2", 
+        "Param/0": "0.1", 
+        "Param/3": "3.14", 
+        "Param/2": "0.3"
+    }
+}

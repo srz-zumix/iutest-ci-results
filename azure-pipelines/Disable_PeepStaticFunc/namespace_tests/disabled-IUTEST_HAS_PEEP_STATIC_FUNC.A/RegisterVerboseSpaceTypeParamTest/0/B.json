@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "B", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.A/RegisterVerboseSpaceTypeParamTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "int"
+    }
+}
