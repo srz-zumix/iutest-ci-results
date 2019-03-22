@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Num/1", 
+    "classname": "disabled-IUTEST_HAS_TESTNAME_ALIAS.A/PairwiseTest2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Num/0": "(1, 0)", 
+        "Num/1": "(0, 1)", 
+        "Num/2": "(0, 0)", 
+        "skipped": "0", 
+        "Num/3": "(1, 1)"
+    }
+}
