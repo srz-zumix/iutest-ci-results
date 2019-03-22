@@ -1,0 +1,16 @@
+{
+    "status": "run", 
+    "skipped": [
+        {
+            "text": null, 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "Assume", 
+    "classname": "disabled-IUTEST_HAS_PARAM_TEST_PARAM_NAME_GENERATOR.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "2"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Friend", 
+    "classname": "disabled-IUTEST_HAS_PARAM_TEST_PARAM_NAME_GENERATOR.A/ProdTypeParamTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "int"
+    }
+}
