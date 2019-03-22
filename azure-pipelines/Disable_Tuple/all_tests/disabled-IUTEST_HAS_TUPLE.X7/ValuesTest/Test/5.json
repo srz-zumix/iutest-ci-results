@@ -1,0 +1,17 @@
+{
+    "status": "run", 
+    "name": "Test/5", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.X7/ValuesTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Test/6": "6", 
+        "Test/5": "5", 
+        "skipped": "0", 
+        "Test/3": "3", 
+        "Test/2": "2", 
+        "Test/1": "1", 
+        "Test/0": "0", 
+        "Test/4": "4"
+    }
+}

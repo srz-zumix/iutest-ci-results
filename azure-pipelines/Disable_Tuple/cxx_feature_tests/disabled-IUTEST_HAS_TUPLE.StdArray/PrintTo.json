@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PrintTo", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.StdArray", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

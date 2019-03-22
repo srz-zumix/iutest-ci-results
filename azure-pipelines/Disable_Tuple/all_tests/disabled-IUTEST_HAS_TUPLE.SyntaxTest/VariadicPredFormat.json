@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "VariadicPredFormat", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
