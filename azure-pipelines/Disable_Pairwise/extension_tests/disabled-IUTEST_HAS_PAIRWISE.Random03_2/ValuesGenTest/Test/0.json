@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_PAIRWISE.Random03_2/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "559", 
+        "Test/2": "550", 
+        "Test/1": "652", 
+        "Test/0": "214", 
+        "Test/4": "829"
+    }
+}
