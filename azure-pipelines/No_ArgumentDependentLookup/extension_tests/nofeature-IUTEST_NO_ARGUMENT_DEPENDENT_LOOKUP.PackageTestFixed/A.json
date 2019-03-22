@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "A", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.PackageTestFixed", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "PINF", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.FloatingpointTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "double"
+    }
+}

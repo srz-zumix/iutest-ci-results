@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.My1/NoFixtureAnyParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/0": "8-Byte object < 30 D4 A2 00 00 00 00 00 >"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/1", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.A/RandomValuesTest3", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "4-Byte object < 5C 05 5C 3E >", 
+        "Test/2": "4-Byte object < 95 8B 51 3F >", 
+        "Test/1": "4-Byte object < 25 BF 78 3F >", 
+        "Test/0": "4-Byte object < 0A B0 44 3F >", 
+        "Test/4": "4-Byte object < F7 4B E7 3E >"
+    }
+}

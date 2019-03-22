@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PeepObject", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.PeepClassTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

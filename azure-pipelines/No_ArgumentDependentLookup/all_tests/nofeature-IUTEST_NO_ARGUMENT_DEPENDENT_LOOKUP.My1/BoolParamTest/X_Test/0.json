@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "X_Test/0", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.My1/BoolParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "X_Test/0": "false", 
+        "X_Test/1": "true"
+    }
+}
