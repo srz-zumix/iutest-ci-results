@@ -1,0 +1,26 @@
+{
+    "status": "run", 
+    "name": "Param/7", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_PAIRWISE.B/CombineTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Num/0": "(false, 1, 0)", 
+        "Num/1": "(false, 1, 1)", 
+        "Num/2": "(false, 10, 0)", 
+        "Num/3": "(false, 10, 1)", 
+        "Num/4": "(true, 1, 0)", 
+        "Num/5": "(true, 1, 1)", 
+        "Num/6": "(true, 10, 0)", 
+        "Num/7": "(true, 10, 1)", 
+        "Param/5": "(true, 1, 1)", 
+        "Param/4": "(true, 1, 0)", 
+        "Param/7": "(true, 10, 1)", 
+        "Param/6": "(true, 10, 0)", 
+        "Param/1": "(false, 1, 1)", 
+        "Param/0": "(false, 1, 0)", 
+        "Param/3": "(false, 10, 1)", 
+        "Param/2": "(false, 10, 0)"
+    }
+}
