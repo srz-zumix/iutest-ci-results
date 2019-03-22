@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "LongDouble", 
+    "classname": "disabled-IUTEST_HAS_PRINT_TO.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
