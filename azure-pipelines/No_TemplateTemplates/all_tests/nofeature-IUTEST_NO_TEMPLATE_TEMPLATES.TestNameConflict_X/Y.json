@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Y", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.TestNameConflict_X", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
