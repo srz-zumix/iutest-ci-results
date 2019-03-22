@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Test1", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.TestSetUpEachCall", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NullEq", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.NullTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

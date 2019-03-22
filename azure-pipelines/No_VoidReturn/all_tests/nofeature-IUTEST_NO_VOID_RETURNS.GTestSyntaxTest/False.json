@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "False", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

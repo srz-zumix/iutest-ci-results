@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "EQ/0", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.ParamMethodF_Foo_DISABLED_", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "EQ/0": "0, 0"
+    }
+}
