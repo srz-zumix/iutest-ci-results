@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Logical", 
+    "classname": "disabled-IUTEST_HAS_COMBINE.ExpressionFail", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
