@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Raw", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.StrTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "char"
+    }
+}

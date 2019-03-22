@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "Bar/0", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.A/FooP_DISABLED_", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Bar/1": "2", 
+        "skipped": "0", 
+        "Bar/0": "0"
+    }
+}

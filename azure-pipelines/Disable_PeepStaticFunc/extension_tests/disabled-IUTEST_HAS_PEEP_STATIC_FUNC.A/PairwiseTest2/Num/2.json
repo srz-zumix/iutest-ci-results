@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Num/2", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.A/PairwiseTest2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Num/0": "(1, 1)", 
+        "Num/1": "(0, 0)", 
+        "Num/2": "(0, 1)", 
+        "skipped": "0", 
+        "Num/3": "(1, 0)"
+    }
+}
