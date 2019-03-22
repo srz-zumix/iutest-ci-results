@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.A/RandomValuesTest1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "1704717289", 
+        "Test/2": "788607048", 
+        "Test/1": "637233264", 
+        "Test/0": "155522112", 
+        "Test/4": "1146950670"
+    }
+}

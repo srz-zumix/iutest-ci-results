@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "A/0", 
+    "classname": "pkg1.A/PackageParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "B/0": "0", 
+        "B/1": "1", 
+        "skipped": "0", 
+        "A/1": "1", 
+        "A/0": "0"
+    }
+}

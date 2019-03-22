@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "LT", 
+    "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
