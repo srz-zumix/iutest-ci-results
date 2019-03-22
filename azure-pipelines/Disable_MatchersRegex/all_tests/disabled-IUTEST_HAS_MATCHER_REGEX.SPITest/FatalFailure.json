@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FatalFailure", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.003", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
