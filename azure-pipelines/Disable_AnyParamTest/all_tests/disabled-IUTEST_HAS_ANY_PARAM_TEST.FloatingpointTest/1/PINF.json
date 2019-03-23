@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "PINF", 
+    "classname": "disabled-IUTEST_HAS_ANY_PARAM_TEST.FloatingpointTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "double"
+    }
+}
