@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "disabled-IUTEST_HAS_PRINT_TO.RandomGen_lambda/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "24847143", 
+        "Test/2": "923703320", 
+        "Test/1": "-457676858", 
+        "Test/0": "1135577083", 
+        "Test/4": "1054141612"
+    }
+}
