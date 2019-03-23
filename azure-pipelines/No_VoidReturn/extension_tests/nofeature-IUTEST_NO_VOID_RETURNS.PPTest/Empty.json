@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Empty", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.PPTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

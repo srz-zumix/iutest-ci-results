@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Pred3", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
