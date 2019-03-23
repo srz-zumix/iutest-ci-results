@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Pred5", 
+    "classname": "disabled-IUTEST_HAS_PEEP_FUNC.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
