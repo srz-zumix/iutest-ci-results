@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Comparison", 
+    "classname": "disabled-IUTEST_HAS_REGEX.Expression", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
