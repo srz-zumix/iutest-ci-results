@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/3", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_TEMPLATES.RandomGen_lambda/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "370245525", 
+        "Test/2": "1631411372", 
+        "Test/1": "-32499739", 
+        "Test/0": "-85526225", 
+        "Test/4": "-604777479"
+    }
+}
