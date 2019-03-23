@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "LE", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

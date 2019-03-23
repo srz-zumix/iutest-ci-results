@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Friend/0", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.X/ProdParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Friend/0": "0"
+    }
+}
