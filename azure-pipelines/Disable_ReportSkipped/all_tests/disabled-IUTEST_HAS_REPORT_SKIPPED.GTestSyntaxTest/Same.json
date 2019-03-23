@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Same", 
+    "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
