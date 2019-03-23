@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Bar", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.A/TypedPFoo_DISABLED_/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "int"
+    }
+}
