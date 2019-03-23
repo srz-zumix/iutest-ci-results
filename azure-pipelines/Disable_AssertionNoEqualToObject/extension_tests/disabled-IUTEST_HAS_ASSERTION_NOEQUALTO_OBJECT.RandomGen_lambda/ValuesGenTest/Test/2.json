@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_NOEQUALTO_OBJECT.RandomGen_lambda/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "2056360550", 
+        "Test/2": "-477530048", 
+        "Test/1": "993294382", 
+        "Test/0": "517505222", 
+        "Test/4": "-1600785598"
+    }
+}
