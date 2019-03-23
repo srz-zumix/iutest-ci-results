@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "StaticMul2", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.My2/TypeParamTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "float"
+    }
+}

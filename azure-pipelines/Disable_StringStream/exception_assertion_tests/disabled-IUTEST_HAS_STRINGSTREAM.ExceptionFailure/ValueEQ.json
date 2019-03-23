@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ValueEQ", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.ExceptionFailure", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Test", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.RandomEngineTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

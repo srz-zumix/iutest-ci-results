@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Genrand", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.TestRandom", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

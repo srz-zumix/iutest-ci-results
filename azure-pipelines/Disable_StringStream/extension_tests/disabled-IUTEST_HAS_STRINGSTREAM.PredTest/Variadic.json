@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Variadic", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.PredTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

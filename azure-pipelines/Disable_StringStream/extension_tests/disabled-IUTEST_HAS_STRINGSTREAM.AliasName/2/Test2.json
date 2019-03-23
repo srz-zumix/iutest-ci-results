@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Test2", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.AliasName/2", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "short"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Arithmetic", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.ExpressionFail", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
