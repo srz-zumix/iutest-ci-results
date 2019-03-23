@@ -1,0 +1,13 @@
+{
+    "status": "run", 
+    "name": "Dummy/2", 
+    "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.A6/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "-1968644446", 
+        "Dummy/0": "0", 
+        "Dummy/1": "1"
+    }
+}
