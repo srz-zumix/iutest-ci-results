@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StrCaseEq", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

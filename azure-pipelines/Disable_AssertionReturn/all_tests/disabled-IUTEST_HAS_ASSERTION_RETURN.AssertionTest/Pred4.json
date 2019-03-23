@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Pred4", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
