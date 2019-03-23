@@ -1,0 +1,18 @@
+{
+    "status": "notrun", 
+    "skipped": [
+        {
+            "text": null, 
+            "message": "disabled test.", 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "EQ/0", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.DISABLED_ParamMethodF_Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "1", 
+        "EQ/0": "0, 1"
+    }
+}

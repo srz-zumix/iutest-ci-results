@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Inform", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.NoFatalFailureTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
