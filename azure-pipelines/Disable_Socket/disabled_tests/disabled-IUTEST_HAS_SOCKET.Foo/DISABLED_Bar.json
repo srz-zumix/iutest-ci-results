@@ -1,0 +1,17 @@
+{
+    "status": "notrun", 
+    "skipped": [
+        {
+            "text": null, 
+            "message": "disabled test.", 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "DISABLED_Bar", 
+    "classname": "disabled-IUTEST_HAS_SOCKET.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "1"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "StaticMul2", 
+    "classname": "disabled-IUTEST_HAS_SOCKET.TypedTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "long"
+    }
+}
