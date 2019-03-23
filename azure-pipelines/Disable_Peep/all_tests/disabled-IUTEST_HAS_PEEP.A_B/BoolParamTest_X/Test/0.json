@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_PEEP.A_B/BoolParamTest_X", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/1": "true", 
+        "Test/0": "false"
+    }
+}

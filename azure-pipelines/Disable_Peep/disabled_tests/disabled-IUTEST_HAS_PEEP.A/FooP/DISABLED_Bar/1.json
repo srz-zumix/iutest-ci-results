@@ -1,0 +1,19 @@
+{
+    "status": "notrun", 
+    "skipped": [
+        {
+            "text": null, 
+            "message": "disabled test.", 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "DISABLED_Bar/1", 
+    "classname": "disabled-IUTEST_HAS_PEEP.A/FooP", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "DISABLED_Bar/1": "2", 
+        "DISABLED_Bar/0": "0", 
+        "skipped": "2"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "EQ", 
+    "classname": "disabled-IUTEST_HAS_PEEP.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
