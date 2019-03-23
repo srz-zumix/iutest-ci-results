@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "default.RandomGen_lambda/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "903735091", 
+        "Test/2": "-2016879354", 
+        "Test/1": "787039906", 
+        "Test/0": "-93317410", 
+        "Test/4": "1331806640"
+    }
+}

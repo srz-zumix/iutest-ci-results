@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionThrow", 
+    "classname": "default.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

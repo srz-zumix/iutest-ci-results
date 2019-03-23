@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "U16String", 
+    "classname": "default.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
