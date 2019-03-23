@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionValueSTREQ", 
+    "classname": "disabled-IUTEST_HAS_MATCHERS.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
