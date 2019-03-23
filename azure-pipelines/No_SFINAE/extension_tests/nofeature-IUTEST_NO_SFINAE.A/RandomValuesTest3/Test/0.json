@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.A/RandomValuesTest3", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "0.187892", 
+        "Test/2": "0.796977", 
+        "Test/1": "0.703271", 
+        "Test/0": "0.953225", 
+        "Test/4": "0.939502"
+    }
+}
