@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/4", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.Random03_01/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-1302401897", 
+        "Test/2": "609996422", 
+        "Test/1": "1067341244", 
+        "Test/0": "-648747217", 
+        "Test/4": "-867366804"
+    }
+}
