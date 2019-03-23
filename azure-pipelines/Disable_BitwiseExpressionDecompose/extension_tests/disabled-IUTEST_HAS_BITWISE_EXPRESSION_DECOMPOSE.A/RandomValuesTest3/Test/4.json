@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/4", 
+    "classname": "disabled-IUTEST_HAS_BITWISE_EXPRESSION_DECOMPOSE.A/RandomValuesTest3", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "0.39619", 
+        "Test/2": "0.842481", 
+        "Test/1": "0.0764217", 
+        "Test/0": "0.37865", 
+        "Test/4": "0.485716"
+    }
+}
