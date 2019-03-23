@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "EQ_RANGE", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_PAIRWISE.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

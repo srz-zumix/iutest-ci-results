@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NonFatalFailure2", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_PAIRWISE.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.003", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
