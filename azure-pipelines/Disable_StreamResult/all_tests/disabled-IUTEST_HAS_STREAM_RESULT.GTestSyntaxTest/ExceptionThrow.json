@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionThrow", 
+    "classname": "disabled-IUTEST_HAS_STREAM_RESULT.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
