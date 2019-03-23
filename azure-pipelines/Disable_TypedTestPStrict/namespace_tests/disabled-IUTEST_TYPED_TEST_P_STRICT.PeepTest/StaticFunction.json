@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StaticFunction", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.PeepTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
