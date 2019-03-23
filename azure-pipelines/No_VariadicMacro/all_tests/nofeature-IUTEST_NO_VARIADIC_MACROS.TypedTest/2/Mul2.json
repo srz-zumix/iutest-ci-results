@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Mul2", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.TypedTest/2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "short"
+    }
+}
