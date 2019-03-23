@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "VariadicPred", 
+    "classname": "disabled-IUTEST_HAS_VALUESGEN.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
