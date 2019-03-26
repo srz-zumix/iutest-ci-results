@@ -3,7 +3,7 @@
     "name": "PrintTo", 
     "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.StdArray", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
