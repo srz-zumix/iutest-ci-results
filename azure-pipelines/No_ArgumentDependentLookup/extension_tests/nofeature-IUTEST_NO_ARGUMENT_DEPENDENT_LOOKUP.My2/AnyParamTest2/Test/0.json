@@ -6,6 +6,6 @@
     "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/0": "8-Byte object < 70 C7 A2 00 00 00 00 00 >"
+        "Test/0": "8-Byte object < 10 98 0B 02 00 00 00 00 >"
     }
 }
