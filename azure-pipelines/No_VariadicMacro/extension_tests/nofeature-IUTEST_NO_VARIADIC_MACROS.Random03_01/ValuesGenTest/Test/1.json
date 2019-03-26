@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/1", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.Random03_01/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "1837260027", 
+        "Test/2": "344034899", 
+        "Test/1": "-1976398636", 
+        "Test/0": "-832503397", 
+        "Test/4": "-1423317751"
+    }
+}

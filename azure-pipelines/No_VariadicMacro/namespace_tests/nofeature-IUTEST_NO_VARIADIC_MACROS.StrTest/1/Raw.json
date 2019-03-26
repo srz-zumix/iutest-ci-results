@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Raw", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.StrTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "wchar_t"
+    }
+}

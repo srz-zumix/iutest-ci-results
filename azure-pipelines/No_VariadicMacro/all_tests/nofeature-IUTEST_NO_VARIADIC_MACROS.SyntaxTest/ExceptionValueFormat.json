@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionValueFormat", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
