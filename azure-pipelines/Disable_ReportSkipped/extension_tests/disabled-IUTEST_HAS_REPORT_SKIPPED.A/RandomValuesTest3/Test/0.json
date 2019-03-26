@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.A/RandomValuesTest3", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "0.160297", 
-        "Test/2": "0.713325", 
-        "Test/1": "0.187706", 
-        "Test/0": "0.385119", 
-        "Test/4": "0.946054"
+        "Test/3": "0.25175", 
+        "Test/2": "0.286775", 
+        "Test/1": "0.0332508", 
+        "Test/0": "0.51428", 
+        "Test/4": "0.990585"
     }
 }
