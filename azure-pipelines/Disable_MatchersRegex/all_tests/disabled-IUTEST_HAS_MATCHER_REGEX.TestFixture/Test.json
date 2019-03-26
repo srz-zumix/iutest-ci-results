@@ -3,7 +3,7 @@
     "name": "Test", 
     "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.TestFixture", 
     "testsuites_attrib": {}, 
-    "time": "0.004", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
