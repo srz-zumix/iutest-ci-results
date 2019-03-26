@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ScopedPeep", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.PeepClassTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

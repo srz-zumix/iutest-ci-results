@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "X_Y", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.TestNameConflict", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
