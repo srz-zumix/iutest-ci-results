@@ -6,10 +6,10 @@
     "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "763", 
-        "Test/2": "190", 
-        "Test/1": "122", 
-        "Test/0": "930", 
-        "Test/4": "895"
+        "Test/3": "552", 
+        "Test/2": "59", 
+        "Test/1": "462", 
+        "Test/0": "610", 
+        "Test/4": "966"
     }
 }
