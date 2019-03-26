@@ -3,13 +3,13 @@
     "name": "Test/1", 
     "classname": "disabled-IUTEST_HAS_PEEP_FUNC.A/RandomValuesTest1", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-1858165974", 
-        "Test/2": "1301602693", 
-        "Test/1": "1828539376", 
-        "Test/0": "-1045589641", 
-        "Test/4": "1018543699"
+        "Test/3": "-1072392527", 
+        "Test/2": "893995161", 
+        "Test/1": "-487601812", 
+        "Test/0": "-2128151356", 
+        "Test/4": "1986171563"
     }
 }
