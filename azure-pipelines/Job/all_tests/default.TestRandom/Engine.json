@@ -3,7 +3,7 @@
     "name": "Engine", 
     "classname": "default.TestRandom", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
