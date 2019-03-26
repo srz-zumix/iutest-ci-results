@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-32", 
-        "Test/2": "'>'", 
-        "Test/1": "'a'", 
-        "Test/0": "'^'", 
-        "Test/4": "-20"
+        "Test/3": "-6", 
+        "Test/2": "'M'", 
+        "Test/1": "-94", 
+        "Test/0": "'J'", 
+        "Test/4": "-56"
     }
 }
