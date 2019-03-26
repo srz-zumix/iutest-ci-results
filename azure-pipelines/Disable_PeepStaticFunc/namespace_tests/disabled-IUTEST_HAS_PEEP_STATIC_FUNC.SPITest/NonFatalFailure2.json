@@ -3,7 +3,7 @@
     "name": "NonFatalFailure2", 
     "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.007", 
+    "time": "0.002", 
     "testsuite_attrib": {
         "skipped": "0"
     }
