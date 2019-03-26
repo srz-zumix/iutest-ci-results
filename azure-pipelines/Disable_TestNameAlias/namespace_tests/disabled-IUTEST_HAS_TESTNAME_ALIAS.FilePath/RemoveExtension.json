@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "RemoveExtension", 
+    "classname": "disabled-IUTEST_HAS_TESTNAME_ALIAS.FilePath", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
