@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "nofeature-IUTEST_NO_SFINAE.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-106", 
-        "Test/2": "-15", 
-        "Test/1": "-4", 
-        "Test/0": "'b'", 
-        "Test/4": "'p'"
+        "Test/3": "-100", 
+        "Test/2": "-77", 
+        "Test/1": "-16", 
+        "Test/0": "'R'", 
+        "Test/4": "-110"
     }
 }
