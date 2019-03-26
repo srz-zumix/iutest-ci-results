@@ -3,13 +3,13 @@
     "name": "Test/1", 
     "classname": "disabled-IUTEST_HAS_CONCAT.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "'q'", 
-        "Test/2": "-52", 
-        "Test/1": "-35", 
-        "Test/0": "'@'", 
-        "Test/4": "-119"
+        "Test/3": "'0'", 
+        "Test/2": "':'", 
+        "Test/1": "-100", 
+        "Test/0": "'u'", 
+        "Test/4": "-67"
     }
 }
