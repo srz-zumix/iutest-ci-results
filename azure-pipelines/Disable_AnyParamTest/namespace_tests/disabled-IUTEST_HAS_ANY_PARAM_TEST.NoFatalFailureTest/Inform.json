@@ -3,7 +3,7 @@
     "name": "Inform", 
     "classname": "disabled-IUTEST_HAS_ANY_PARAM_TEST.NoFatalFailureTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
