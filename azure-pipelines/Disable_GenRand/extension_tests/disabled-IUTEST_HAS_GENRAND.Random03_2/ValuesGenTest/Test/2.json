@@ -3,13 +3,13 @@
     "name": "Test/2", 
     "classname": "disabled-IUTEST_HAS_GENRAND.Random03_2/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "215", 
-        "Test/2": "788", 
-        "Test/1": "165", 
-        "Test/0": "51", 
-        "Test/4": "288"
+        "Test/3": "507", 
+        "Test/2": "667", 
+        "Test/1": "234", 
+        "Test/0": "855", 
+        "Test/4": "396"
     }
 }
