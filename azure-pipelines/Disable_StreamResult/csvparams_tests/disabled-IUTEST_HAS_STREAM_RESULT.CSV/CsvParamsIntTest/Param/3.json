@@ -3,7 +3,7 @@
     "name": "Param/3", 
     "classname": "disabled-IUTEST_HAS_STREAM_RESULT.CSV/CsvParamsIntTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "1", 
