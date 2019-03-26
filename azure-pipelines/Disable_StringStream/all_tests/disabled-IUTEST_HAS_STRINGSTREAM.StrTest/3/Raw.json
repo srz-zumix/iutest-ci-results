@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Raw", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.StrTest/3", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "char32_t"
+    }
+}

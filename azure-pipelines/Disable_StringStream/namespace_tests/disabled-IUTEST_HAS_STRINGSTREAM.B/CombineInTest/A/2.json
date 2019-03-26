@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "A/2", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.B/CombineInTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "A/3": "((true, 10), 1)", 
+        "A/2": "((true, 10), 0)", 
+        "A/1": "((false, 1), 1)", 
+        "A/0": "((false, 1), 0)"
+    }
+}

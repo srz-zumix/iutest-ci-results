@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Logical", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.Expression", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

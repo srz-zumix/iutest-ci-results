@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PeepA2", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.ProdTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Test1", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.AliasName", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "RemoveExtension", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.FilePath", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
