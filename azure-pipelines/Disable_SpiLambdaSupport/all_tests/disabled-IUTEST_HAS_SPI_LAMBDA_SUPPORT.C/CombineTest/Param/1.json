@@ -3,7 +3,7 @@
     "name": "Param/1", 
     "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.C/CombineTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "(false, 1, 0)", 
