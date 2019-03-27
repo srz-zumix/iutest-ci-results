@@ -1,0 +1,13 @@
+{
+    "status": "run", 
+    "name": "Dummy/2", 
+    "classname": "default.A6/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "732193392", 
+        "Dummy/0": "0", 
+        "Dummy/1": "1"
+    }
+}
