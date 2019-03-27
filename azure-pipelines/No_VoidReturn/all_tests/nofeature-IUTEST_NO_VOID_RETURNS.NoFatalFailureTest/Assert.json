@@ -3,7 +3,7 @@
     "name": "Assert", 
     "classname": "nofeature-IUTEST_NO_VOID_RETURNS.NoFatalFailureTest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
