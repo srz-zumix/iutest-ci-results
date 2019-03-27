@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "A", 
+    "classname": "pkg2.pkg2.Test", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

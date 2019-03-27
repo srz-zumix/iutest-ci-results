@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_MATCHERS.A/RandomValuesTest3", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "0.205641", 
+        "Test/2": "0.809418", 
+        "Test/1": "0.56996", 
+        "Test/0": "0.96342", 
+        "Test/4": "0.840447"
+    }
+}
