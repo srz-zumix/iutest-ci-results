@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.A/RandomValuesTest3", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "0.634828", 
-        "Test/2": "0.812648", 
-        "Test/1": "0.496215", 
-        "Test/0": "0.846397", 
-        "Test/4": "0.0670457"
+        "Test/3": "0.703845", 
+        "Test/2": "0.0293858", 
+        "Test/1": "0.126554", 
+        "Test/0": "0.202717", 
+        "Test/4": "0.6779"
     }
 }
