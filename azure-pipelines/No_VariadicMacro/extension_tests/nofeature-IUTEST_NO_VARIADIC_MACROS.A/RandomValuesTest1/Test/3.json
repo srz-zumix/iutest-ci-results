@@ -3,13 +3,13 @@
     "name": "Test/3", 
     "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.A/RandomValuesTest1", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-1850244200", 
-        "Test/2": "1560952900", 
-        "Test/1": "1624206139", 
-        "Test/0": "467162064", 
-        "Test/4": "1210582189"
+        "Test/3": "-864819350", 
+        "Test/2": "-337070653", 
+        "Test/1": "1751415241", 
+        "Test/0": "-53214459", 
+        "Test/4": "-1864164918"
     }
 }
