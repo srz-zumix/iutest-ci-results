@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Engine", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.TestRandom", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
