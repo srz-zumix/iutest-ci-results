@@ -3,7 +3,7 @@
     "name": "Monadic", 
     "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.ExpressionNotFail", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
