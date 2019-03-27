@@ -5,8 +5,8 @@
     "testsuites_attrib": {}, 
     "time": "0", 
     "testsuite_attrib": {
-        "BadCast/0": "8-Byte object < 30 65 EE 00 00 00 00 00 >", 
+        "BadCast/0": "8-Byte object < 40 D7 81 01 00 00 00 00 >", 
         "skipped": "0", 
-        "Test/0": "8-Byte object < 20 BB EE 00 00 00 00 00 >"
+        "Test/0": "8-Byte object < 60 D7 81 01 00 00 00 00 >"
     }
 }
