@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_CSVPARAMS.Random03_2/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "718", 
-        "Test/2": "603", 
-        "Test/1": "123", 
-        "Test/0": "985", 
-        "Test/4": "670"
+        "Test/3": "829", 
+        "Test/2": "332", 
+        "Test/1": "938", 
+        "Test/0": "432", 
+        "Test/4": "648"
     }
 }
