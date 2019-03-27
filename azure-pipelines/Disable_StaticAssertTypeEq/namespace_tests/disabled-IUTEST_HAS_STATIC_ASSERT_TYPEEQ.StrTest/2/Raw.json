@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Raw", 
+    "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.StrTest/2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "char16_t"
+    }
+}

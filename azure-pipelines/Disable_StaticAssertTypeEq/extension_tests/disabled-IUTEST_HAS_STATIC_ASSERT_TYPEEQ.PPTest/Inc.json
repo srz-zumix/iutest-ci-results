@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Inc", 
+    "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.PPTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
