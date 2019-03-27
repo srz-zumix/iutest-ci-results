@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FatalFailure", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.003", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

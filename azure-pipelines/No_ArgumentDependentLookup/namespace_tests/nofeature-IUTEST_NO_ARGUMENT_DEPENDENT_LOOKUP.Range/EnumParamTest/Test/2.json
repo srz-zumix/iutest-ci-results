@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.Range/EnumParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "4-Byte object < 03 00 00 00 >", 
+        "Test/2": "4-Byte object < 02 00 00 00 >", 
+        "Test/1": "4-Byte object < 01 00 00 00 >", 
+        "Test/0": "4-Byte object < 00 00 00 00 >", 
+        "Test/4": "4-Byte object < 04 00 00 00 >"
+    }
+}
