@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bitwise", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.ExpressionNot", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
