@@ -3,7 +3,7 @@
     "name": "NonFatalFailure", 
     "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0.004", 
     "testsuite_attrib": {
         "skipped": "0"
     }
