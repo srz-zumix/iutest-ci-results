@@ -3,7 +3,7 @@
     "name": "String", 
     "classname": "disabled-IUTEST_HAS_VALUESGEN.StrCaseTest/1", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "type_param": "wchar_t"
