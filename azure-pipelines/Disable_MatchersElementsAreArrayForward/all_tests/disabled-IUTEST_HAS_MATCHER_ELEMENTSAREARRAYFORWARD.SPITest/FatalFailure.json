@@ -3,7 +3,7 @@
     "name": "FatalFailure", 
     "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSAREARRAYFORWARD.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.005", 
+    "time": "0.003", 
     "testsuite_attrib": {
         "skipped": "0"
     }
