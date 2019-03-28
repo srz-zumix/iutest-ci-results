@@ -3,7 +3,7 @@
     "name": "IsDirectory", 
     "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.FilePath", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
