@@ -3,7 +3,7 @@
     "name": "Throw", 
     "classname": "disabled-IUTEST_HAS_ANY_PARAM_TEST.Exception", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
