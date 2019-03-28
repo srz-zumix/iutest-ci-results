@@ -3,7 +3,7 @@
     "name": "Assert", 
     "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.NoFailureTest", 
     "testsuites_attrib": {}, 
-    "time": "0.003", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
