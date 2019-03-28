@@ -3,7 +3,7 @@
     "name": "NonFatalFailure", 
     "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.003", 
+    "time": "0.004", 
     "testsuite_attrib": {
         "skipped": "0"
     }
