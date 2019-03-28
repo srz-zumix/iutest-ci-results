@@ -3,7 +3,7 @@
     "name": "ValueFormat", 
     "classname": "disabled-IUTEST_HAS_MATCHERS.Exception", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
