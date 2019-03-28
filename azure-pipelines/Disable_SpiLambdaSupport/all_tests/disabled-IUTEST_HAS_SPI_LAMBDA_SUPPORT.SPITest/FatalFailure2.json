@@ -3,7 +3,7 @@
     "name": "FatalFailure2", 
     "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0.003", 
     "testsuite_attrib": {
         "skipped": "0"
     }
