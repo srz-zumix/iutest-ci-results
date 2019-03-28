@@ -3,13 +3,13 @@
     "name": "Test/1", 
     "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-54", 
-        "Test/2": "-95", 
-        "Test/1": "'>'", 
-        "Test/0": "'O'", 
-        "Test/4": "-64"
+        "Test/3": "-21", 
+        "Test/2": "-109", 
+        "Test/1": "15", 
+        "Test/0": "4", 
+        "Test/4": "22"
     }
 }
