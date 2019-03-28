@@ -3,7 +3,7 @@
     "name": "Test/5", 
     "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.Range/ParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "Test/7": "7", 
         "Test/6": "6", 
