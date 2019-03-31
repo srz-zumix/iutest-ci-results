@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ValueNE", 
+    "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.Exception", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
