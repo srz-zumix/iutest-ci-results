@@ -3,7 +3,7 @@
     "name": "RemoveExtension", 
     "classname": "disabled-IUTEST_HAS_PARAM_TEST_PARAM_NAME_GENERATOR.FilePath", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
