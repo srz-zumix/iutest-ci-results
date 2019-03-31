@@ -3,7 +3,7 @@
     "name": "Test/2", 
     "classname": "disabled-IUTEST_HAS_VARIADIC_COMBINE.My1/MultiInstantiateParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "Test/7": "7", 
         "Test/6": "6", 
