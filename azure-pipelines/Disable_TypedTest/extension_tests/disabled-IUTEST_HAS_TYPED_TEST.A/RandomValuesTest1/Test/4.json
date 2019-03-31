@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/4", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST.A/RandomValuesTest1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-1056209884", 
+        "Test/2": "-980037722", 
+        "Test/1": "450139732", 
+        "Test/0": "-418365859", 
+        "Test/4": "-1483757426"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "status": "run", 
+    "name": "Num/7", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST.A/VariadicPairwiseTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Num/0": "(1, 1, 0, 0, 0, 1, 1, 0, 1, 0)", 
+        "Num/1": "(0, 1, 1, 0, 0, 0, 0, 1, 1, 1)", 
+        "Num/2": "(1, 0, 1, 0, 1, 0, 0, 0, 0, 0)", 
+        "Num/3": "(0, 0, 0, 1, 1, 0, 1, 1, 0, 1)", 
+        "Num/4": "(1, 1, 0, 1, 0, 1, 0, 0, 0, 1)", 
+        "Num/5": "(0, 0, 1, 1, 0, 1, 1, 1, 1, 0)", 
+        "Num/6": "(1, 1, 1, 1, 1, 1, 0, 1, 1, 0)", 
+        "Num/7": "(0, 0, 0, 0, 0, 1, 0, 0, 1, 1)"
+    }
+}
