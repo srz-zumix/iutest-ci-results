@@ -3,8 +3,8 @@
 set -e
 
 git status
-git branch -D all || true
+git branch -D all 2>/dev/null || true
 git fetch -p --all
 git checkout -b all origin/all
-git merge origin/$1
+git merge -ours origin/$1
 git push ${DRYRUN}
