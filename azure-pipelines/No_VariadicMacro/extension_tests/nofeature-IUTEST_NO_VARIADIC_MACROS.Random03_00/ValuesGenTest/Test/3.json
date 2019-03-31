@@ -3,13 +3,13 @@
     "name": "Test/3", 
     "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.Random03_00/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "351", 
-        "Test/2": "642", 
-        "Test/1": "821", 
-        "Test/0": "976", 
-        "Test/4": "169"
+        "Test/3": "748", 
+        "Test/2": "667", 
+        "Test/1": "356", 
+        "Test/0": "957", 
+        "Test/4": "983"
     }
 }
