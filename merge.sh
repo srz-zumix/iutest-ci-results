@@ -43,6 +43,9 @@ for i in `seq 0 ${RETRY}`; do
       git push ${DRYRUN} --delete origin ${TARGET_BRANCH}
     fi
     exit 0
+  else
+    git merge --abort
+    git checkout ${TARGET_BRANCH}
   fi
 done
 
