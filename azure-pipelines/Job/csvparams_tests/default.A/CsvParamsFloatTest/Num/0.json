@@ -3,7 +3,7 @@
     "name": "Num/0", 
     "classname": "default.A/CsvParamsFloatTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "0.1", 
