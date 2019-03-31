@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.A/RandomValuesTest1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-58099805", 
+        "Test/2": "-2046551863", 
+        "Test/1": "-2074134961", 
+        "Test/0": "-1697514304", 
+        "Test/4": "-374627570"
+    }
+}
