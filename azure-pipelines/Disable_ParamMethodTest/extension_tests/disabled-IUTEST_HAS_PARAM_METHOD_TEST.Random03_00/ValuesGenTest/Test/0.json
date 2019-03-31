@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.Random03_00/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "685", 
-        "Test/2": "348", 
-        "Test/1": "12", 
-        "Test/0": "903", 
-        "Test/4": "198"
+        "Test/3": "123", 
+        "Test/2": "361", 
+        "Test/1": "191", 
+        "Test/0": "227", 
+        "Test/4": "664"
     }
 }
