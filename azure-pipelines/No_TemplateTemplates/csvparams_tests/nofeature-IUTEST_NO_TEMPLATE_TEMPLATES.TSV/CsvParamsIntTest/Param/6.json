@@ -3,7 +3,7 @@
     "name": "Param/6", 
     "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.TSV/CsvParamsIntTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "1", 
