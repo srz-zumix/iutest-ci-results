@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "TestBody", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.Compatibility", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
