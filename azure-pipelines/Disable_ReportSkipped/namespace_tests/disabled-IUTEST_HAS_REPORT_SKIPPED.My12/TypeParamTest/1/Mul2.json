@@ -3,7 +3,7 @@
     "name": "Mul2", 
     "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.My12/TypeParamTest/1", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
         "type_param": "short"
