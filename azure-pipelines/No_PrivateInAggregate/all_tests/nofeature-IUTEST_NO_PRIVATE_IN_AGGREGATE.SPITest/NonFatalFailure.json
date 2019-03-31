@@ -3,7 +3,7 @@
     "name": "NonFatalFailure", 
     "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.003", 
+    "time": "0.005", 
     "testsuite_attrib": {
         "skipped": "0"
     }
