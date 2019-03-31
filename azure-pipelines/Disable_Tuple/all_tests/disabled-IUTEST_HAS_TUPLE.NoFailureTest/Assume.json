@@ -3,7 +3,7 @@
     "name": "Assume", 
     "classname": "disabled-IUTEST_HAS_TUPLE.NoFailureTest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
