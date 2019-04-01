@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_FILE_STAT.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-26", 
-        "Test/2": "-55", 
-        "Test/1": "'Q'", 
-        "Test/0": "-71", 
-        "Test/4": "'u'"
+        "Test/3": "'N'", 
+        "Test/2": "-91", 
+        "Test/1": "'q'", 
+        "Test/0": "-61", 
+        "Test/4": "-49"
     }
 }
