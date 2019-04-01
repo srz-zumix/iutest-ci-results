@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "IsBeginParens", 
+    "classname": "disabled-IUTEST_HAS_PARAM_TEST.PPTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
