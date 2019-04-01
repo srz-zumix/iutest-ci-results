@@ -6,6 +6,5 @@ git status
 git branch -D all 2>/dev/null || true
 git fetch -p --all
 git checkout -b all origin/all
-git pull
-git merge -X ours origin/$1
+git merge -Xours origin/$1
 git push ${DRYRUN}
