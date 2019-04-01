@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Qux", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSAREARRAYFORWARD.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
