@@ -3,7 +3,7 @@
     "name": "PrintTo", 
     "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.FilePath", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.005", 
     "testsuite_attrib": {
         "skipped": "0"
     }
