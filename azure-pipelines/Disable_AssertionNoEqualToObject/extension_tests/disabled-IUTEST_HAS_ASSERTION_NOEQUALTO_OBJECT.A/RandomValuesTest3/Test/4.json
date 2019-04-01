@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_ASSERTION_NOEQUALTO_OBJECT.A/RandomValuesTest3", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "0.288363", 
-        "Test/2": "0.183373", 
-        "Test/1": "0.310832", 
-        "Test/0": "0.44521", 
-        "Test/4": "0.948456"
+        "Test/3": "0.858022", 
+        "Test/2": "0.355165", 
+        "Test/1": "0.606097", 
+        "Test/0": "0.391601", 
+        "Test/4": "0.251716"
     }
 }
