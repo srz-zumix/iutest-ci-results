@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 usage_exit() {
         echo "Usage: $0 [-d] [-n] [-r retry_count] <branch_name>" 1>&2
@@ -46,6 +46,7 @@ for i in `seq 0 ${RETRY}`; do
   else
     git merge --abort
     git checkout ${TARGET_BRANCH}
+    sleep $[ ($RANDOM % 10) + 1 + i ]s
   fi
 done
 
