@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Y", 
+    "classname": "disabled-IUTEST_HAS_RANDOMVALUES.TestNameConflict_X", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
