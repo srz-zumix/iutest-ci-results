@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FatalFailure2", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ALLOF_AND_ANYOF.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.003", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

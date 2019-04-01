@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Null", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ALLOF_AND_ANYOF.StrTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "char"
+    }
+}
