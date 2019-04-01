@@ -3,7 +3,7 @@
     "name": "Test/0", 
     "classname": "default.My1/MultiInstantiateParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "Test/7": "7", 
         "Test/6": "6", 
