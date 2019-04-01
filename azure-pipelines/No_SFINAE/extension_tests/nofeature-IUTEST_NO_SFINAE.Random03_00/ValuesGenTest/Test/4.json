@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "nofeature-IUTEST_NO_SFINAE.Random03_00/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "817", 
-        "Test/2": "533", 
-        "Test/1": "481", 
-        "Test/0": "34", 
-        "Test/4": "265"
+        "Test/3": "76", 
+        "Test/2": "766", 
+        "Test/1": "341", 
+        "Test/0": "498", 
+        "Test/4": "382"
     }
 }
