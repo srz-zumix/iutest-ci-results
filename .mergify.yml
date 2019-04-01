@@ -1,17 +1,23 @@
 pull_request_rules:
-  - name: automatic merge
-    conditions:
-      - status-success=danger
-      - -locked
-      - author~=srz-zumix
-    actions:
-      delete_head_branch: {}
-      merge:
-        method: merge
+  # - name: automatic merge
+  #   conditions:
+  #     - status-success=danger
+  #     - -locked
+  #     - author~=srz-zumix
+  #   actions:
+  #     delete_head_branch: {}
+  #     merge:
+  #       method: merge
 
-  - name: closed automatic delete
+  # - name: closed automatic delete
+  #   conditions:
+  #     - closed
+  #     - author~=srz-zumix
+  #   actions:
+  #     delete_head_branch: {}
+
+  - name: merged automatic close
     conditions:
-      - closed
-      - author~=srz-zumix
+      - merged
     actions:
-      delete_head_branch: {}
+      close:
