@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ValueSTRCASEEQ", 
+    "classname": "disabled-IUTEST_HAS_PRINT_TO.Exception", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
