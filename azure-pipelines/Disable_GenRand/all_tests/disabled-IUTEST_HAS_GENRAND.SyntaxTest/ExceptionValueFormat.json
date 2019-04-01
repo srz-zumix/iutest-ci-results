@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionValueFormat", 
+    "classname": "disabled-IUTEST_HAS_GENRAND.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
