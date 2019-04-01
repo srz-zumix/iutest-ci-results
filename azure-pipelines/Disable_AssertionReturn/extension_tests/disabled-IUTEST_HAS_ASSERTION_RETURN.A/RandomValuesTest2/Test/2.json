@@ -3,13 +3,13 @@
     "name": "Test/2", 
     "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-74", 
-        "Test/2": "-84", 
-        "Test/1": "'n'", 
-        "Test/0": "-35", 
-        "Test/4": "-110"
+        "Test/3": "31", 
+        "Test/2": "-85", 
+        "Test/1": "-77", 
+        "Test/0": "-19", 
+        "Test/4": "-51"
     }
 }
