@@ -3,13 +3,13 @@
     "name": "Test/3", 
     "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.Random03_01/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-1128707532", 
-        "Test/2": "-1320552799", 
-        "Test/1": "-1009617997", 
-        "Test/0": "-2141037148", 
-        "Test/4": "782544762"
+        "Test/3": "19497129", 
+        "Test/2": "-1103953444", 
+        "Test/1": "1077948458", 
+        "Test/0": "888914620", 
+        "Test/4": "-349352942"
     }
 }
