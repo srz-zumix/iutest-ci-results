@@ -3,7 +3,7 @@
     "name": "NonFatalFailure2", 
     "classname": "disabled-IUTEST_HAS_GENRAND.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0.003", 
     "testsuite_attrib": {
         "skipped": "0"
     }
