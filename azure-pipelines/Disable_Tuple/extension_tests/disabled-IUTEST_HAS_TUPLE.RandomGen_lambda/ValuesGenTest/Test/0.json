@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_TUPLE.RandomGen_lambda/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "2081829615", 
-        "Test/2": "-1497408686", 
-        "Test/1": "-35392431", 
-        "Test/0": "1578673197", 
-        "Test/4": "-407582580"
+        "Test/3": "34667423", 
+        "Test/2": "-471086033", 
+        "Test/1": "-323751432", 
+        "Test/0": "1260795923", 
+        "Test/4": "2022489454"
     }
 }
