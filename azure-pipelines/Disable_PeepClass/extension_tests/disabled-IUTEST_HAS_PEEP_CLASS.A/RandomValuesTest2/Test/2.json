@@ -3,13 +3,13 @@
     "name": "Test/2", 
     "classname": "disabled-IUTEST_HAS_PEEP_CLASS.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-58", 
-        "Test/2": "-18", 
-        "Test/1": "'-'", 
-        "Test/0": "-8", 
-        "Test/4": "-113"
+        "Test/3": "-53", 
+        "Test/2": "-37", 
+        "Test/1": "'J'", 
+        "Test/0": "28", 
+        "Test/4": "-34"
     }
 }
