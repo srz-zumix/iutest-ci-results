@@ -3,7 +3,7 @@
     "name": "Test/8", 
     "classname": "disabled-IUTEST_HAS_REGEX.Range/ParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0", 
     "testsuite_attrib": {
         "Test/7": "7", 
         "Test/6": "6", 
