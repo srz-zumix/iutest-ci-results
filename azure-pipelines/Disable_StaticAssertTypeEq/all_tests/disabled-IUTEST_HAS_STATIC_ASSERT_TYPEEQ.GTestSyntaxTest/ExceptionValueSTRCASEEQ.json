@@ -3,7 +3,7 @@
     "name": "ExceptionValueSTRCASEEQ", 
     "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.GTestSyntaxTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
