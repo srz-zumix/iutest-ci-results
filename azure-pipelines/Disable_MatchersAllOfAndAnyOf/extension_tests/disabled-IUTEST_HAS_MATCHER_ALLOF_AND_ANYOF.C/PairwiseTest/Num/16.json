@@ -1,6 +1,6 @@
 {
     "status": "run", 
-    "name": "Num/2", 
+    "name": "Num/16", 
     "classname": "disabled-IUTEST_HAS_MATCHER_ALLOF_AND_ANYOF.C/PairwiseTest", 
     "testsuites_attrib": {}, 
     "time": "0", 
