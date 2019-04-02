@@ -3,7 +3,7 @@
     "name": "VariadicMacro", 
     "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.Expression", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
