@@ -7,9 +7,9 @@
     "testsuite_attrib": {
         "skipped": "0", 
         "Test/3": "-69", 
-        "Test/2": "-51", 
-        "Test/1": "'|'", 
-        "Test/0": "'E'", 
-        "Test/4": "-54"
+        "Test/2": "'J'", 
+        "Test/1": "-47", 
+        "Test/0": "'g'", 
+        "Test/4": "-88"
     }
 }
