@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_PARAM_TEST_PARAM_NAME_GENERATOR.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Test/3": "14", 
-        "Test/2": "-25", 
-        "Test/1": "-92", 
-        "Test/0": "-109", 
-        "Test/4": "-25"
+        "Test/2": "''", 
+        "Test/1": "'O'", 
+        "Test/0": "'R'", 
+        "Test/4": "'j'"
     }
 }
