@@ -3,7 +3,7 @@
     "name": "BadCast/0", 
     "classname": "default.My1/WithAnyParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "BadCast/0": "0", 
         "skipped": "0", 
