@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "Num/2", 
+    "name": "Num/14", 
     "classname": "disabled-IUTEST_HAS_TYPED_TEST.B/PairwiseTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "Num/8": "(1, 1, 1, 1, 1, 0, 1, 1, 0)", 
         "Num/9": "(1, 0, 0, 0, 1, 1, 0, 0, 1)", 
