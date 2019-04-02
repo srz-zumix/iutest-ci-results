@@ -3,7 +3,7 @@
     "name": "Expect", 
     "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.NoFailureTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
