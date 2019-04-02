@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_PAIRWISE.Random03_2/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "348", 
-        "Test/2": "583", 
-        "Test/1": "865", 
-        "Test/0": "545", 
-        "Test/4": "994"
+        "Test/3": "6", 
+        "Test/2": "326", 
+        "Test/1": "849", 
+        "Test/0": "618", 
+        "Test/4": "540"
     }
 }
