@@ -3,13 +3,13 @@
     "name": "Test/3", 
     "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.Random03_00/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "881", 
-        "Test/2": "990", 
-        "Test/1": "999", 
-        "Test/0": "253", 
-        "Test/4": "243"
+        "Test/3": "658", 
+        "Test/2": "936", 
+        "Test/1": "543", 
+        "Test/0": "57", 
+        "Test/4": "134"
     }
 }
