@@ -3,7 +3,7 @@
     "name": "BadCast/0", 
     "classname": "disabled-IUTEST_HAS_PARAM_TEST_PARAM_NAME_GENERATOR.My1/WithAnyParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "BadCast/0": "0", 
         "skipped": "0", 
