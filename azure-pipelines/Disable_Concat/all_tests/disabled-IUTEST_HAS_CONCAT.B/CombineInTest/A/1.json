@@ -6,9 +6,9 @@
     "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "A/3": "(8-Byte object < 0A 00 00 00 01 9B 48 01 >, 1)", 
-        "A/2": "(8-Byte object < 0A 00 00 00 01 9B 48 01 >, 0)", 
-        "A/1": "(8-Byte object < 01 00 00 00 00 9B 48 01 >, 1)", 
-        "A/0": "(8-Byte object < 01 00 00 00 00 9B 48 01 >, 0)"
+        "A/3": "(8-Byte object < 0A 00 00 00 01 CB 93 01 >, 1)", 
+        "A/2": "(8-Byte object < 0A 00 00 00 01 CB 93 01 >, 0)", 
+        "A/1": "(8-Byte object < 01 00 00 00 00 CB 93 01 >, 1)", 
+        "A/0": "(8-Byte object < 01 00 00 00 00 CB 93 01 >, 0)"
     }
 }
