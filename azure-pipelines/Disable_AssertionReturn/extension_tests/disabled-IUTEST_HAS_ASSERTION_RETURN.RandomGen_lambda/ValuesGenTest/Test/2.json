@@ -3,13 +3,13 @@
     "name": "Test/2", 
     "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.RandomGen_lambda/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-1411513962", 
-        "Test/2": "-1108119908", 
-        "Test/1": "-1190762364", 
-        "Test/0": "-1649596881", 
-        "Test/4": "1605818012"
+        "Test/3": "915206925", 
+        "Test/2": "-1317006361", 
+        "Test/1": "1857377519", 
+        "Test/0": "1440853626", 
+        "Test/4": "1850087896"
     }
 }
