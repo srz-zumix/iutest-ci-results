@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_COMBINE.Random03_2/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "528", 
-        "Test/2": "146", 
-        "Test/1": "338", 
-        "Test/0": "911", 
-        "Test/4": "467"
+        "Test/3": "477", 
+        "Test/2": "205", 
+        "Test/1": "84", 
+        "Test/0": "880", 
+        "Test/4": "766"
     }
 }
