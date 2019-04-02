@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.Random03_2/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "176", 
-        "Test/2": "327", 
-        "Test/1": "540", 
-        "Test/0": "594", 
-        "Test/4": "708"
+        "Test/3": "156", 
+        "Test/2": "910", 
+        "Test/1": "256", 
+        "Test/0": "862", 
+        "Test/4": "161"
     }
 }
