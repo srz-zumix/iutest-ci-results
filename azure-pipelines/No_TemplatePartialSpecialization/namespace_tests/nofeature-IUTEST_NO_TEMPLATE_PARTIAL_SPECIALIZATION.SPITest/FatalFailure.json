@@ -3,7 +3,7 @@
     "name": "FatalFailure", 
     "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0.004", 
     "testsuite_attrib": {
         "skipped": "0"
     }
