@@ -3,7 +3,7 @@
     "name": "Friend/0", 
     "classname": "disabled-IUTEST_HAS_BITWISE_EXPRESSION_DECOMPOSE.X/ProdParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Friend/0": "0"
