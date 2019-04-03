@@ -3,7 +3,7 @@
     "name": "AnyOf", 
     "classname": "disabled-IUTEST_HAS_EXCEPTIONS.SyntaxTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
