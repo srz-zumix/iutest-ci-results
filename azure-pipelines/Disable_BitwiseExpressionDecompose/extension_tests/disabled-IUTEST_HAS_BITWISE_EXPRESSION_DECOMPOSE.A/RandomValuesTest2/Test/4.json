@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_BITWISE_EXPRESSION_DECOMPOSE.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "'\\'", 
-        "Test/2": "-39", 
-        "Test/1": "'y'", 
-        "Test/0": "'c'", 
-        "Test/4": "-32"
+        "Test/3": "'5'", 
+        "Test/2": "'E'", 
+        "Test/1": "'^'", 
+        "Test/0": "13", 
+        "Test/4": "-72"
     }
 }
