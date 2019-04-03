@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.A/RandomValuesTest3", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "0.797825", 
-        "Test/2": "0.223297", 
-        "Test/1": "0.903168", 
-        "Test/0": "0.00722112", 
-        "Test/4": "0.0189992"
+        "Test/3": "0.0966799", 
+        "Test/2": "0.905653", 
+        "Test/1": "0.965459", 
+        "Test/0": "0.451122", 
+        "Test/4": "0.556718"
     }
 }
