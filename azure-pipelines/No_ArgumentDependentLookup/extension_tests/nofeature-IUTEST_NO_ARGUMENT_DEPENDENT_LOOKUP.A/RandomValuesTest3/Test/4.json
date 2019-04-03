@@ -6,10 +6,10 @@
     "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "4-Byte object < 53 96 52 3C >", 
-        "Test/2": "4-Byte object < A0 1F 1E 3F >", 
-        "Test/1": "4-Byte object < C9 DF 0E 3E >", 
-        "Test/0": "4-Byte object < C9 D6 F2 3E >", 
-        "Test/4": "4-Byte object < F1 84 04 3E >"
+        "Test/3": "4-Byte object < 2C 27 C3 3E >", 
+        "Test/2": "4-Byte object < E9 CE 58 3E >", 
+        "Test/1": "4-Byte object < CD 66 9F 3D >", 
+        "Test/0": "4-Byte object < 2C 4B 4A 3E >", 
+        "Test/4": "4-Byte object < F7 F2 45 3F >"
     }
 }
