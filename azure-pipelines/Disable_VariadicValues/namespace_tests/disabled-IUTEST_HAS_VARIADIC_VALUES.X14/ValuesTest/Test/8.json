@@ -3,7 +3,7 @@
     "name": "Test/8", 
     "classname": "disabled-IUTEST_HAS_VARIADIC_VALUES.X14/ValuesTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "Test/7": "7", 
         "Test/6": "6", 
