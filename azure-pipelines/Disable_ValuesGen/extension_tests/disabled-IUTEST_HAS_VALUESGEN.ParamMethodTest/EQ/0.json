@@ -3,7 +3,7 @@
     "name": "EQ/0", 
     "classname": "disabled-IUTEST_HAS_VALUESGEN.ParamMethodTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "EQ/2": "2, 2", 
         "EQ/1": "1, 1", 
