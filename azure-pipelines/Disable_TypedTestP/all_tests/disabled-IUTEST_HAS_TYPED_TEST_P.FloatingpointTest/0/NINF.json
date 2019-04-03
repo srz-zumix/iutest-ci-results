@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "NINF", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST_P.FloatingpointTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "0.004", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "float"
+    }
+}
