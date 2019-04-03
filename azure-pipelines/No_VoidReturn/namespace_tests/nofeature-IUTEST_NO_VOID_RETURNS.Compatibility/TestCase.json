@@ -3,7 +3,7 @@
     "name": "TestCase", 
     "classname": "nofeature-IUTEST_NO_VOID_RETURNS.Compatibility", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
