@@ -3,7 +3,7 @@
     "name": "FatalFailure", 
     "classname": "disabled-IUTEST_HAS_CONCAT.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.003", 
+    "time": "0.008", 
     "testsuite_attrib": {
         "skipped": "0"
     }
