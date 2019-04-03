@@ -3,7 +3,7 @@
     "name": "True", 
     "classname": "nofeature-IUTEST_NO_VOID_RETURNS.ExpressionMacro", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
