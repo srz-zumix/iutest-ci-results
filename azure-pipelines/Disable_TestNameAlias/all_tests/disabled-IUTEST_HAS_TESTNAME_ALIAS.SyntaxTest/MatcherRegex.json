@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "MatcherRegex", 
+    "classname": "disabled-IUTEST_HAS_TESTNAME_ALIAS.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
