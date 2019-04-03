@@ -3,7 +3,7 @@
     "name": "FatalFailure", 
     "classname": "disabled-IUTEST_HAS_SOCKET.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.004", 
+    "time": "0.002", 
     "testsuite_attrib": {
         "skipped": "0"
     }
