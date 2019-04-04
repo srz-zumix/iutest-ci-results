@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StrCaseEq", 
+    "classname": "disabled-IUTEST_HAS_PEEP_CLASS.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

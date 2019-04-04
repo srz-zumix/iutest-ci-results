@@ -3,11 +3,11 @@
     "name": "Dummy/0", 
     "classname": "disabled-IUTEST_HAS_PEEP_CLASS.P4/ConcatTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Dummy/2": "1", 
-        "Dummy/0": "-2003176341", 
+        "Dummy/0": "-776624430", 
         "Dummy/1": "0"
     }
 }
