@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "MATCHES_REGEXEQ", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

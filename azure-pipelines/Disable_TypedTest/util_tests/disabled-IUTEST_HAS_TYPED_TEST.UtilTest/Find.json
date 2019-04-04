@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Find", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST.UtilTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
