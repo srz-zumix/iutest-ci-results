@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar9", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.1", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
