@@ -1,0 +1,17 @@
+{
+    "status": "run", 
+    "skipped": [
+        {
+            "text": null, 
+            "message": "port_tests.cpp:24: Skipped. ", 
+            "type": "iutest.skip"
+        }
+    ], 
+    "name": "SetGetEnv", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_PAIRWISE.PortableTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "2"
+    }
+}

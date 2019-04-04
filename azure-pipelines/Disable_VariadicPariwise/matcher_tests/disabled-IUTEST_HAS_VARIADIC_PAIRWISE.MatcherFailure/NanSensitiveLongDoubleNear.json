@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NanSensitiveLongDoubleNear", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_PAIRWISE.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
