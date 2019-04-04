@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ContainerEq", 
+    "classname": "default.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

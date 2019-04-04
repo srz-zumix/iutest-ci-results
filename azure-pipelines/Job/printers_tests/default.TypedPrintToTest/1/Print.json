@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Print", 
+    "classname": "default.TypedPrintToTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "unsigned char"
+    }
+}
