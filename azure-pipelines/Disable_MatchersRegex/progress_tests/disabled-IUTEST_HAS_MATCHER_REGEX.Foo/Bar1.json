@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar1", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.1", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
