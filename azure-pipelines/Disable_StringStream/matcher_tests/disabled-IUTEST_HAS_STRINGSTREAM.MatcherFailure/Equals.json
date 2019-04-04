@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Equals", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

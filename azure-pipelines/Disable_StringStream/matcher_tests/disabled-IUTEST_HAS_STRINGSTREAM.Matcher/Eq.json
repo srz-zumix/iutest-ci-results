@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Eq", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

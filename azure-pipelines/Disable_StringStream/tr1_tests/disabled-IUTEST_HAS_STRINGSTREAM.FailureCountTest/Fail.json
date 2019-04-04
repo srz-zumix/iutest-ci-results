@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Fail", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.FailureCountTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

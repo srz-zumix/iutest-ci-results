@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ShowWideCString", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.CharCodeTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

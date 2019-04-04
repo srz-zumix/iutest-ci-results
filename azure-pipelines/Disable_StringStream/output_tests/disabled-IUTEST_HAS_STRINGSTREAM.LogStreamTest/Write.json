@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Write", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.LogStreamTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

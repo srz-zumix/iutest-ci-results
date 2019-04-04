@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StringAny", 
+    "classname": "Test.UnitTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

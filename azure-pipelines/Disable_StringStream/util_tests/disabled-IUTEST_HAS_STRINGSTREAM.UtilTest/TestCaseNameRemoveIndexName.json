@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "TestCaseNameRemoveIndexName", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.UtilTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

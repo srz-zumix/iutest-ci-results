@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "イコール/0", 
+    "classname": "japanese_test.あいうえお", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "イコール/0": "0, 0"
+    }
+}

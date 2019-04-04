@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Print", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.TypedPrintToTest/5", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "unsigned int"
+    }
+}

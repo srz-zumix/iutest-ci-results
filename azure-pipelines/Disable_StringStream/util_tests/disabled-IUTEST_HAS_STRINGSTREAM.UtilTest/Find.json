@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Find", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.UtilTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

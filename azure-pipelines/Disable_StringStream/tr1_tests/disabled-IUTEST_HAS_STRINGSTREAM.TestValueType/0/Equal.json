@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Equal", 
+    "classname": "disabled-IUTEST_HAS_STRINGSTREAM.TestValueType/0", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "iutest::TemplateValue<10l>"
+    }
+}

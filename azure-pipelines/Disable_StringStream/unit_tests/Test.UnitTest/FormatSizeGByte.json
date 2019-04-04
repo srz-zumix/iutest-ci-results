@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FormatSizeGByte", 
+    "classname": "Test.UnitTest", 
+    "testsuites_attrib": {}, 
+    "time": "", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
