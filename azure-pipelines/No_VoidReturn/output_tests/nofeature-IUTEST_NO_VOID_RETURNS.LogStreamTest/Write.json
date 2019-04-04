@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Write", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.LogStreamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

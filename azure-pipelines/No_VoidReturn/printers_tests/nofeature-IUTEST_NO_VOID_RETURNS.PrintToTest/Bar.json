@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

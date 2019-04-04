@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "A", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
