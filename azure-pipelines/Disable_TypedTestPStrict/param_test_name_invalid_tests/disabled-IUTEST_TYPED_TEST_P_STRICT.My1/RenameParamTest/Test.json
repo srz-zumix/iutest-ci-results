@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Test", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.My1/RenameParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Test": "true", 
+        "skipped": "0"
+    }
+}

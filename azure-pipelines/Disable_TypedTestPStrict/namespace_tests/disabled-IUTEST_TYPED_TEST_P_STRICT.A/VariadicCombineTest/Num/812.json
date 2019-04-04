@@ -3,7 +3,7 @@
     "name": "Num/812", 
     "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.A/VariadicCombineTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "Num/381": "(0, 1, 0, 1, 1, 1, 1, 1, 0, 1)", 
         "Num/380": "(0, 1, 0, 1, 1, 1, 1, 1, 0, 0)", 

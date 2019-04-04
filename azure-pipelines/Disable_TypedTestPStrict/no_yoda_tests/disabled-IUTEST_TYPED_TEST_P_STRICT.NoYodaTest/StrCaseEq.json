@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StrCaseEq", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.NoYodaTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
