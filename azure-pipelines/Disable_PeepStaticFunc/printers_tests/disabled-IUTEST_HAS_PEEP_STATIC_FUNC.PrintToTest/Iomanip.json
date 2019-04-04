@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Iomanip", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

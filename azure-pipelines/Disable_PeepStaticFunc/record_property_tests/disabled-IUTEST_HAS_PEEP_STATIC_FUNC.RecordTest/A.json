@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "A", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.RecordTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "foo": "A"
+    }
+}

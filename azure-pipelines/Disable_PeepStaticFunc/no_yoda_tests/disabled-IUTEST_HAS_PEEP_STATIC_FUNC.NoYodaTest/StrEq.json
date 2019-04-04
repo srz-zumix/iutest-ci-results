@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StrEq", 
+    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.NoYodaTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
