@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Equals", 
+    "classname": "disabled-IUTEST_HAS_PEEP.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
