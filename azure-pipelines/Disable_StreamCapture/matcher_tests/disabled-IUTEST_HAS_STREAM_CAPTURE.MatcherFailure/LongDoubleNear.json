@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "LongDoubleNear", 
+    "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

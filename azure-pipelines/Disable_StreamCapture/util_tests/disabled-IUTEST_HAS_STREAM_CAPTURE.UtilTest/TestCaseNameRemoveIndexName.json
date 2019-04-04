@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "TestCaseNameRemoveIndexName", 
+    "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.UtilTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
