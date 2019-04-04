@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "is_class", 
+    "classname": "Test.UnitTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
