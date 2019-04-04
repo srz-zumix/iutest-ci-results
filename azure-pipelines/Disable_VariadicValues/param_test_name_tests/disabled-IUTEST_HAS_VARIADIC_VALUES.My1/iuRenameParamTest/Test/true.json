@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "Test/true", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_VALUES.My1/iuRenameParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Test/true": "true", 
+        "skipped": "0", 
+        "Test/false": "false"
+    }
+}

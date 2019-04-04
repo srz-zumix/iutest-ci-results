@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ElementsAreArray", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_VALUES.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
