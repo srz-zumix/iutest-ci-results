@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "DoubleNear", 
+    "classname": "disabled-IUTEST_HAS_GENRAND.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
