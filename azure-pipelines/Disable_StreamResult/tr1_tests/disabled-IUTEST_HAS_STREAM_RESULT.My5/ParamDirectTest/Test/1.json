@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Test/1", 
+    "classname": "disabled-IUTEST_HAS_STREAM_RESULT.My5/ParamDirectTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "0", 
+        "Test/2": "1", 
+        "Test/1": "2", 
+        "Test/0": "3"
+    }
+}

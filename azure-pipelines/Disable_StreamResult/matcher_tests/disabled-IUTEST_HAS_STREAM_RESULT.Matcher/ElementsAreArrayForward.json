@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ElementsAreArrayForward", 
+    "classname": "disabled-IUTEST_HAS_STREAM_RESULT.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
