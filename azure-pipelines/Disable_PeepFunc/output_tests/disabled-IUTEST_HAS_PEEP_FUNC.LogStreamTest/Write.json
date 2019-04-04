@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Write", 
+    "classname": "disabled-IUTEST_HAS_PEEP_FUNC.LogStreamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
