@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar0", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST_P.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.1", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Fail", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST_P.FailureCountTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
