@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Fail", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.FailureCountTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

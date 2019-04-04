@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Test", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.My1/RenameParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Test": "true", 
+        "skipped": "0"
+    }
+}
