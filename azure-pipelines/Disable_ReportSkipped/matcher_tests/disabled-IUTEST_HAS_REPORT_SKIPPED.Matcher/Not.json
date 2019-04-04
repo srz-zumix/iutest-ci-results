@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Not", 
+    "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
