@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "LE", 
+    "classname": "disabled-IUTEST_HAS_TESTNAME_ALIAS.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
