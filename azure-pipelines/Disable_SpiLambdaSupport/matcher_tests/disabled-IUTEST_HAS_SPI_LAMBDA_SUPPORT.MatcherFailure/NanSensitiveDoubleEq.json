@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NanSensitiveDoubleEq", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0.002", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

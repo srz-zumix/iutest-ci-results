@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar11", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.1", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
