@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NanSensitiveDoubleEq", 
+    "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

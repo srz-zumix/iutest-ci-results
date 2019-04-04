@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar", 
+    "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
