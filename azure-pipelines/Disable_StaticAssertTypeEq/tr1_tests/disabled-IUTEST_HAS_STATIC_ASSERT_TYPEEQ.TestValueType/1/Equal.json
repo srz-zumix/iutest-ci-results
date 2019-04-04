@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Equal", 
+    "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.TestValueType/1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "iutest::TemplateValue<0l>"
+    }
+}

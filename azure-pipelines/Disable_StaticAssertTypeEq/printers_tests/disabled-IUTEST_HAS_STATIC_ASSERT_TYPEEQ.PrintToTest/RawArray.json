@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "RawArray", 
+    "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
