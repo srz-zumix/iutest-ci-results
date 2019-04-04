@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ElementsAre", 
+    "classname": "disabled-IUTEST_HAS_FILE_STAT.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

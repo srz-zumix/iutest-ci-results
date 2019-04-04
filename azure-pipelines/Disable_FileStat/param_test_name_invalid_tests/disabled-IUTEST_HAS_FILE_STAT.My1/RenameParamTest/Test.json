@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Test", 
+    "classname": "disabled-IUTEST_HAS_FILE_STAT.My1/RenameParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Test": "true", 
+        "skipped": "0"
+    }
+}
