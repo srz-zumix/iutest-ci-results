@@ -3,13 +3,13 @@
     "name": "Test/3", 
     "classname": "disabled-IUTEST_HAS_MATCHER_ALLOF_AND_ANYOF.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "27", 
-        "Test/2": "-93", 
-        "Test/1": "'$'", 
-        "Test/0": "-34", 
-        "Test/4": "-51"
+        "Test/3": "-82", 
+        "Test/2": "-34", 
+        "Test/1": "-20", 
+        "Test/0": "'A'", 
+        "Test/4": "'f'"
     }
 }

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NanSensitiveDoubleEq", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ALLOF_AND_ANYOF.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
