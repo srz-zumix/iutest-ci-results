@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NanSensitiveDoubleNear", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.MatcherFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
