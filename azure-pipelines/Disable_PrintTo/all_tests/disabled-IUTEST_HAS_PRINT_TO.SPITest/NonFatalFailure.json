@@ -3,7 +3,7 @@
     "name": "NonFatalFailure", 
     "classname": "disabled-IUTEST_HAS_PRINT_TO.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.003", 
+    "time": "0.002", 
     "testsuite_attrib": {
         "skipped": "0"
     }
