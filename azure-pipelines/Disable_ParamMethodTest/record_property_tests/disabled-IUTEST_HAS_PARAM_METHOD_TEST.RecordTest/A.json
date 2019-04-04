@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "A", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.RecordTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "foo": "A"
+    }
+}
