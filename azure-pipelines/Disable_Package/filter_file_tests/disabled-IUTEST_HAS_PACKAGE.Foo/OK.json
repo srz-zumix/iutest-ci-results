@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "OK", 
+    "classname": "disabled-IUTEST_HAS_PACKAGE.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

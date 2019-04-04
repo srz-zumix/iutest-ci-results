@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "かきくけこ", 
+    "classname": "disabled-IUTEST_HAS_PACKAGE.JapaneseTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

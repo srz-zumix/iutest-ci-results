@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "Japanese/0", 
+    "classname": "disabled-IUTEST_HAS_PACKAGE.My1/あいうえお", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Japanese/0": "0", 
+        "skipped": "0", 
+        "あいうえお/0": "0"
+    }
+}
