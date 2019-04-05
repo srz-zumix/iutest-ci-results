@@ -3,7 +3,7 @@
     "name": "DoubleEq", 
     "classname": "default.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.002", 
     "testsuite_attrib": {
         "skipped": "0"
     }
