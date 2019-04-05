@@ -3,7 +3,7 @@
     "name": "Not", 
     "classname": "disabled-IUTEST_HAS_SOCKET.Matcher", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
