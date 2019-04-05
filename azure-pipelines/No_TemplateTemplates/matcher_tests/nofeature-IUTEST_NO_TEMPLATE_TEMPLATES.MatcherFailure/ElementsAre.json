@@ -3,7 +3,7 @@
     "name": "ElementsAre", 
     "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
