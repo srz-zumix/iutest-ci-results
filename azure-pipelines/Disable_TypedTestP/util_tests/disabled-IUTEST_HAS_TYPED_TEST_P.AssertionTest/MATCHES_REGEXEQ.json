@@ -3,7 +3,7 @@
     "name": "MATCHES_REGEXEQ", 
     "classname": "disabled-IUTEST_HAS_TYPED_TEST_P.AssertionTest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
