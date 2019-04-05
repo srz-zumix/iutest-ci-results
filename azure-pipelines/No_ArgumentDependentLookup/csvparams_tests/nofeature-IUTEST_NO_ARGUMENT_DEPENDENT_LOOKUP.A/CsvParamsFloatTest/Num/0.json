@@ -3,7 +3,7 @@
     "name": "Num/0", 
     "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.A/CsvParamsFloatTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "4-Byte object < CD CC CC 3D >", 
