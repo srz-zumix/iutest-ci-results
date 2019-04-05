@@ -3,7 +3,7 @@
     "name": "Test", 
     "classname": "disabled-IUTEST_HAS_PARAM_TEST.ReturnTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
