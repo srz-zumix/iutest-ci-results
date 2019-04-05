@@ -3,7 +3,7 @@
     "name": "NonFatalFailure", 
     "classname": "disabled-IUTEST_HAS_VARIADIC_COMBINE.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.003", 
+    "time": "0.006", 
     "testsuite_attrib": {
         "skipped": "0"
     }
