@@ -3,7 +3,7 @@
     "name": "Param/7", 
     "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.C/CombineTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "(false, 1, 0)", 
