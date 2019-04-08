@@ -3,7 +3,7 @@
     "name": "CONTAINS_REGEXNE", 
     "classname": "disabled-IUTEST_HAS_PARAM_TEST.AssertionTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
