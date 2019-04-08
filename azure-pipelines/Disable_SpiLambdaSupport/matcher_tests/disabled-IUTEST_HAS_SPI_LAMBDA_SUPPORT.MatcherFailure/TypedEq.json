@@ -3,7 +3,7 @@
     "name": "TypedEq", 
     "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
