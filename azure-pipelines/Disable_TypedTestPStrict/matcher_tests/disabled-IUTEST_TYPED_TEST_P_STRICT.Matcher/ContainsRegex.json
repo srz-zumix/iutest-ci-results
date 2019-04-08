@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ContainsRegex", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
