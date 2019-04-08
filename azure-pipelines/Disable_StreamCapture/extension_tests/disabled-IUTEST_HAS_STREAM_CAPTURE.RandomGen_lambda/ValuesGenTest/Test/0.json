@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.RandomGen_lambda/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-1650264102", 
+        "Test/2": "-922570854", 
+        "Test/1": "-1297680280", 
+        "Test/0": "-1202376538", 
+        "Test/4": "-1939655480"
+    }
+}
