@@ -1,0 +1,13 @@
+{
+    "status": "run", 
+    "name": "Dummy/0", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.A6/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "839410157", 
+        "Dummy/0": "0", 
+        "Dummy/1": "1"
+    }
+}

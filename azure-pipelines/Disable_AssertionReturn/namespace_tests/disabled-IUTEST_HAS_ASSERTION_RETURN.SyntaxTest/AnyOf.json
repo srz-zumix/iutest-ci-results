@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "AnyOf", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
