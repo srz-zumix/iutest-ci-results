@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Print", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.TypedPrintToTest/8", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "int*"
+    }
+}
