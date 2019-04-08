@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "Num/4", 
+    "name": "Num/13", 
     "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.C/PairwiseTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "Num/8": "(1, 0, 1, 0, 1, 0, 0, 1, 0)", 
         "Num/9": "(1, 1, 0, 1, 1, 1, 1, 0, 0)", 
