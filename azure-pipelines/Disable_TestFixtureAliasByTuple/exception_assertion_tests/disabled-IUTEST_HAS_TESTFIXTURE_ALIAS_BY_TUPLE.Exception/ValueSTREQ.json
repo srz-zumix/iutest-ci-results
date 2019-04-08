@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ValueSTREQ", 
+    "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.Exception", 
+    "testsuites_attrib": {}, 
+    "time": "0.003", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
