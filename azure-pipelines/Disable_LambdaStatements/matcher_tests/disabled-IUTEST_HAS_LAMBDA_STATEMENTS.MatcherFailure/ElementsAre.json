@@ -3,7 +3,7 @@
     "name": "ElementsAre", 
     "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
