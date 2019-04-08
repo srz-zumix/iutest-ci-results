@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "FileLocation", 
-    "classname": "Test.UnitTest", 
+    "name": "Comparison", 
+    "classname": "disabled-IUTEST_HAS_TESTNAME_ALIAS.ExpressionNotFail", 
     "testsuites_attrib": {}, 
     "time": "0", 
     "testsuite_attrib": {
