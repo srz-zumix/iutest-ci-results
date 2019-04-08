@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/4", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.RandomGen_lambda/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-348348858", 
+        "Test/2": "-110092052", 
+        "Test/1": "1677242864", 
+        "Test/0": "1940845211", 
+        "Test/4": "-285043824"
+    }
+}
