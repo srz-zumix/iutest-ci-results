@@ -3,7 +3,7 @@
     "name": "Arithmetic", 
     "classname": "disabled-IUTEST_HAS_STREAM_RESULT.Expression", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
