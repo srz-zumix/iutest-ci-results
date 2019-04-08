@@ -3,7 +3,7 @@
     "name": "FatalFailure2", 
     "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0.005", 
     "testsuite_attrib": {
         "skipped": "0"
     }
