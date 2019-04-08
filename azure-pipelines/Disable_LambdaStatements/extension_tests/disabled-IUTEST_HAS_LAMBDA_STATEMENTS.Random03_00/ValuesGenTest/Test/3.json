@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/3", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.Random03_00/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "944", 
+        "Test/2": "294", 
+        "Test/1": "708", 
+        "Test/0": "487", 
+        "Test/4": "798"
+    }
+}
