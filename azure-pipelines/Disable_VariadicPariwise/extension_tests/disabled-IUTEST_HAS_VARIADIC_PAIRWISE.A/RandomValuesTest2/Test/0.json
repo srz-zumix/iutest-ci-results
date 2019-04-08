@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_PAIRWISE.A/RandomValuesTest2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-107", 
+        "Test/2": "-45", 
+        "Test/1": "-63", 
+        "Test/0": "'X'", 
+        "Test/4": "'C'"
+    }
+}
