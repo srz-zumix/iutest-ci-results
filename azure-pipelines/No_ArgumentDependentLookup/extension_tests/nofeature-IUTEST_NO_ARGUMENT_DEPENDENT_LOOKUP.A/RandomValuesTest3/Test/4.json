@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.A/RandomValuesTest3", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "4-Byte object < A5 3E AC 3E >", 
-        "Test/2": "4-Byte object < 14 B5 C7 3E >", 
-        "Test/1": "4-Byte object < B0 A7 9D 3E >", 
-        "Test/0": "4-Byte object < A0 A0 BD 3E >", 
-        "Test/4": "4-Byte object < 49 6D 0A 3F >"
+        "Test/3": "4-Byte object < 11 5D CD 3E >", 
+        "Test/2": "4-Byte object < 88 18 32 3F >", 
+        "Test/1": "4-Byte object < EC C9 C3 3E >", 
+        "Test/0": "4-Byte object < F6 69 07 3E >", 
+        "Test/4": "4-Byte object < 70 6D 14 3F >"
     }
 }
