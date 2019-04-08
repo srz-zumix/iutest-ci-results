@@ -3,7 +3,7 @@
     "name": "Bar14", 
     "classname": "nofeature-IUTEST_NO_VOID_RETURNS.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.1", 
+    "time": "0.101", 
     "testsuite_attrib": {
         "skipped": "0"
     }
