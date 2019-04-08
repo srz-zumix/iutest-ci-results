@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "String", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_VALUES.StrCaseTest/1", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "wchar_t"
+    }
+}

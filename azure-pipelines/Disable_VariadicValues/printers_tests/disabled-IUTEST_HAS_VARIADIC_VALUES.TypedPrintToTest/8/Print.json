@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Print", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_VALUES.TypedPrintToTest/8", 
+    "testsuites_attrib": {}, 
+    "time": "0.004", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "int*"
+    }
+}
