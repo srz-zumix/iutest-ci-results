@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Comparison", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.ExpressionFail", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
