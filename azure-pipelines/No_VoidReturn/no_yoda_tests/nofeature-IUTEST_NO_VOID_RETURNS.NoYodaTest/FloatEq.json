@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FloatEq", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.NoYodaTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
