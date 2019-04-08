@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "NoThrow", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.ExceptionFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
