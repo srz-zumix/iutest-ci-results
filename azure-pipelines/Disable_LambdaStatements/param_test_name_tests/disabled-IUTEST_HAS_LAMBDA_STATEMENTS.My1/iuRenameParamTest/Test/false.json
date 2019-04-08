@@ -3,7 +3,7 @@
     "name": "Test/false", 
     "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.My1/iuRenameParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "Test/true": "true", 
         "skipped": "0", 
