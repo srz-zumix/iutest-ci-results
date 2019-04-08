@@ -3,7 +3,7 @@
     "name": "Bar18", 
     "classname": "nofeature-IUTEST_NO_SFINAE.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.101", 
+    "time": "0.1", 
     "testsuite_attrib": {
         "skipped": "0"
     }
