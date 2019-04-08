@@ -3,7 +3,7 @@
     "name": "RawArray", 
     "classname": "disabled-IUTEST_HAS_SOCKET.PrintToTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
