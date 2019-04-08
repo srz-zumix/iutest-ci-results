@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar13", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.1", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

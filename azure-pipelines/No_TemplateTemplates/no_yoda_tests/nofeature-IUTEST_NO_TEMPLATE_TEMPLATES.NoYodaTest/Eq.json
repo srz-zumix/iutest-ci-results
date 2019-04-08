@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Eq", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.NoYodaTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
