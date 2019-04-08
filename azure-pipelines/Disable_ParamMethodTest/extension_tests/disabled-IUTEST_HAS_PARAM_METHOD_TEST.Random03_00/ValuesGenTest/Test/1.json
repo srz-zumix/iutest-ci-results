@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/1", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.Random03_00/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "778", 
+        "Test/2": "230", 
+        "Test/1": "208", 
+        "Test/0": "334", 
+        "Test/4": "940"
+    }
+}
