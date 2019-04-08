@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_PEEP_CLASS.RandomGen_lambda/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "394799612", 
-        "Test/2": "138178290", 
-        "Test/1": "-326293958", 
-        "Test/0": "-720853700", 
-        "Test/4": "-2026287244"
+        "Test/3": "-474515141", 
+        "Test/2": "-2049778606", 
+        "Test/1": "-1215748475", 
+        "Test/0": "-501856407", 
+        "Test/4": "-1278589141"
     }
 }
