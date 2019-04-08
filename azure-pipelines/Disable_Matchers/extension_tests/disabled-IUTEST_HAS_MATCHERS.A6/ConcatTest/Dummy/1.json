@@ -1,0 +1,13 @@
+{
+    "status": "run", 
+    "name": "Dummy/1", 
+    "classname": "disabled-IUTEST_HAS_MATCHERS.A6/ConcatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Dummy/2": "354420908", 
+        "Dummy/0": "0", 
+        "Dummy/1": "1"
+    }
+}
