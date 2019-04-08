@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FatalFailure", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.007", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
