@@ -3,7 +3,7 @@
     "name": "MATCHES_REGEXEQ", 
     "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.AssertionTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
