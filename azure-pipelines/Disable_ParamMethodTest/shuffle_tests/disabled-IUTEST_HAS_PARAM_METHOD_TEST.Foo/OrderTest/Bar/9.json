@@ -3,7 +3,7 @@
     "name": "Bar/9", 
     "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.Foo/OrderTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Bar/9": "9", 
