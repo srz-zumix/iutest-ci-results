@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.Random03_00/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "82", 
-        "Test/2": "816", 
-        "Test/1": "144", 
-        "Test/0": "520", 
-        "Test/4": "86"
+        "Test/3": "932", 
+        "Test/2": "508", 
+        "Test/1": "648", 
+        "Test/0": "915", 
+        "Test/4": "345"
     }
 }
