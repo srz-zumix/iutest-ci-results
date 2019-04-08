@@ -3,11 +3,13 @@
 set -ex
 
 function resolve_conflict() {
+  set +x
   for conflict in `git diff --name-only --diff-filter=U`; do
     echo $conflict
     git checkout --theirs "$conflict"
     git add "$conflict"
   done
+  set -x
   git commit --file .git/MERGE_MSG
 }
 
