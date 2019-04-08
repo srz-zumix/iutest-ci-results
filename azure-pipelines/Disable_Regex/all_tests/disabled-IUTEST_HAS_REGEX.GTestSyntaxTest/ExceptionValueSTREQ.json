@@ -3,7 +3,7 @@
     "name": "ExceptionValueSTREQ", 
     "classname": "disabled-IUTEST_HAS_REGEX.GTestSyntaxTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
