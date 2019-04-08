@@ -3,7 +3,7 @@
     "name": "Bar5", 
     "classname": "disabled-IUTEST_HAS_TESTNAME_ALIAS.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.101", 
+    "time": "0.1", 
     "testsuite_attrib": {
         "skipped": "0"
     }
