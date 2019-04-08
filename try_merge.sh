@@ -4,6 +4,7 @@ set -ex
 
 function resolve_conflict() {
   set +x
+  git status
   for conflict in `git diff --name-only --diff-filter=U`; do
     echo $conflict
     git checkout --theirs "$conflict"
