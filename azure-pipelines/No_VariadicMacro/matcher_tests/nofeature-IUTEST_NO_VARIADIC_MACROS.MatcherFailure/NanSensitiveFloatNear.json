@@ -3,7 +3,7 @@
     "name": "NanSensitiveFloatNear", 
     "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0.003", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
