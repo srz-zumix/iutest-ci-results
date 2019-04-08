@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "ExceptionThrow", 
-    "classname": "disabled-IUTEST_HAS_PEEP.SyntaxTest", 
+    "name": "CONTAINS_REGEXEQ", 
+    "classname": "disabled-IUTEST_HAS_PEEP.AssertionTest", 
     "testsuites_attrib": {}, 
     "time": "0", 
     "testsuite_attrib": {
