@@ -3,7 +3,7 @@
     "name": "NoThrow", 
     "classname": "default.ExceptionFailure", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
