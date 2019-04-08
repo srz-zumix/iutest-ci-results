@@ -3,7 +3,7 @@
     "name": "Dummy/0", 
     "classname": "disabled-IUTEST_HAS_PACKAGE.P2/ConcatTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Dummy/2": "0", 
