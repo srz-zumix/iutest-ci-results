@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Field", 
-    "classname": "disabled-IUTEST_HAS_TUPLE.MatcherFailure", 
+    "name": "EQ_COLLECTIONS", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.SyntaxTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
