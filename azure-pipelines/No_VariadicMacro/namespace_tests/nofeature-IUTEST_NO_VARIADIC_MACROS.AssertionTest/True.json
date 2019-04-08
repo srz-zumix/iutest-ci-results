@@ -3,7 +3,7 @@
     "name": "True", 
     "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.AssertionTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
