@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "Bar8", 
-    "classname": "disabled-IUTEST_HAS_TUPLE.Foo", 
+    "name": "MatchesRegex", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.Matcher", 
     "testsuites_attrib": {}, 
-    "time": "0.1", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
