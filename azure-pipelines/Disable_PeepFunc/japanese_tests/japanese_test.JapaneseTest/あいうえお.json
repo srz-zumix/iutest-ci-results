@@ -3,7 +3,7 @@
     "name": "あいうえお", 
     "classname": "japanese_test.JapaneseTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
