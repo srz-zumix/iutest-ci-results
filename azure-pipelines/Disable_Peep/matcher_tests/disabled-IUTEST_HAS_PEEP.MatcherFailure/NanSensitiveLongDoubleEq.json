@@ -3,7 +3,7 @@
     "name": "NanSensitiveLongDoubleEq", 
     "classname": "disabled-IUTEST_HAS_PEEP.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.002", 
     "testsuite_attrib": {
         "skipped": "0"
     }
