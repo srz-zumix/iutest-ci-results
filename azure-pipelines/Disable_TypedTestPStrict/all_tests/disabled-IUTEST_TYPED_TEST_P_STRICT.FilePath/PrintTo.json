@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "PrintTo", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.FilePath", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
