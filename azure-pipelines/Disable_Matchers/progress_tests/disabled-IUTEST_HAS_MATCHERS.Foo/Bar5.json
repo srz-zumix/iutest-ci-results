@@ -3,7 +3,7 @@
     "name": "Bar5", 
     "classname": "disabled-IUTEST_HAS_MATCHERS.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.104", 
+    "time": "0.1", 
     "testsuite_attrib": {
         "skipped": "0"
     }
