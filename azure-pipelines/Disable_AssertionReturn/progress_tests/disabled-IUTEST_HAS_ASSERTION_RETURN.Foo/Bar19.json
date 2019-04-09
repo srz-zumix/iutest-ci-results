@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar19", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.101", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
