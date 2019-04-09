@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "FloatEq", 
-    "classname": "disabled-IUTEST_HAS_TESTNAME_ALIAS.MatcherFailure", 
+    "name": "Near", 
+    "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.SyntaxTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
