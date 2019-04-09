@@ -3,7 +3,7 @@
     "name": "Monadic", 
     "classname": "disabled-IUTEST_HAS_ANY_PARAM_TEST.ExpressionNotFail", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
