@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ALLOF_AND_ANYOF.Random03_2/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "981", 
+        "Test/2": "107", 
+        "Test/1": "589", 
+        "Test/0": "461", 
+        "Test/4": "958"
+    }
+}
