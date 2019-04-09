@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "UnitTest", 
-    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.Compatibility", 
+    "name": "Pred4", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.SyntaxTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {

@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "Param/4", 
-    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.TSV/CsvParamsIntTest", 
+    "name": "Param/1", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.CSV/CsvParamsIntTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "1", 
