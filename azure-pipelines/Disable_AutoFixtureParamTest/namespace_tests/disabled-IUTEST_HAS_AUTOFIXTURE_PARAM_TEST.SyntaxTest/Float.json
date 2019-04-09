@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Float", 
+    "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

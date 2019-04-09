@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar", 
+    "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
