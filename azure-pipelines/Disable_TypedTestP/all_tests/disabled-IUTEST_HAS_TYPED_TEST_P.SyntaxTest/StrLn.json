@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StrLn", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST_P.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FloatEq", 
+    "classname": "disabled-IUTEST_HAS_TYPED_TEST_P.NoYodaTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
