@@ -1,6 +1,6 @@
 {
     "status": "run", 
-    "name": "CONTAINS_REGEXNE", 
+    "name": "Double", 
     "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.AssertionTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 

@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.Random03_01/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-2049098354", 
-        "Test/2": "2074357375", 
-        "Test/1": "373927567", 
-        "Test/0": "-1421265866", 
-        "Test/4": "1742160263"
+        "Test/3": "1062333152", 
+        "Test/2": "80471592", 
+        "Test/1": "1225549372", 
+        "Test/0": "-1912930677", 
+        "Test/4": "1694844199"
     }
 }
