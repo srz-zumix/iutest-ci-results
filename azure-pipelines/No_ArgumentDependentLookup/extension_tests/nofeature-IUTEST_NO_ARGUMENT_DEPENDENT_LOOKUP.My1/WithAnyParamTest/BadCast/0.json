@@ -3,10 +3,10 @@
     "name": "BadCast/0", 
     "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.My1/WithAnyParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
-        "BadCast/0": "8-Byte object < 60 17 27 01 00 00 00 00 >", 
+        "BadCast/0": "8-Byte object < 30 9D 27 01 00 00 00 00 >", 
         "skipped": "0", 
-        "Test/0": "8-Byte object < 80 17 27 01 00 00 00 00 >"
+        "Test/0": "8-Byte object < 50 9D 27 01 00 00 00 00 >"
     }
 }
