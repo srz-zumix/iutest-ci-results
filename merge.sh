@@ -34,6 +34,7 @@ if [ -z ${TARGET_BRANCH} ]; then
 fi
 
 echo ${TARGET_BRANCH}:${RETRY}
+git config merge.renamelimit 9999
 
 for i in `seq 0 ${RETRY}`; do
   echo "i = $i"
