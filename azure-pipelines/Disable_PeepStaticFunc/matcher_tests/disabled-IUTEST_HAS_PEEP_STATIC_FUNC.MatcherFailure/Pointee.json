@@ -3,7 +3,7 @@
     "name": "Pointee", 
     "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
