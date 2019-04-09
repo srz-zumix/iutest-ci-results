@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Inform", 
+    "classname": "default.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "2"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "TestCaseNameRemoveIndexName", 
+    "classname": "default.UtilTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

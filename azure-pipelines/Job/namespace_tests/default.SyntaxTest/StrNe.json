@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StrNe", 
+    "classname": "default.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "default.Random03_01/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-419656502", 
+        "Test/2": "-1709620930", 
+        "Test/1": "-2058441383", 
+        "Test/0": "-201690251", 
+        "Test/4": "-960681285"
+    }
+}

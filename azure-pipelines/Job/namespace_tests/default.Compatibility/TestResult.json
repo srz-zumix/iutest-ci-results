@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "TestResult", 
+    "classname": "default.Compatibility", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
