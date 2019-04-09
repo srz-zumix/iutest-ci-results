@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "LongDoubleEq", 
-    "classname": "disabled-IUTEST_HAS_PEEP_STATIC_FUNC.MatcherFailure", 
+    "name": "A", 
+    "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.ConcatTestCheck", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
