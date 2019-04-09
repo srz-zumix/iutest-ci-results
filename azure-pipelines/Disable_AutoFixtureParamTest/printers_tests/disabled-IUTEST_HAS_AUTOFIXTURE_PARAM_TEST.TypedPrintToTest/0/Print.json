@@ -3,7 +3,7 @@
     "name": "Print", 
     "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.TypedPrintToTest/0", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "type_param": "char"

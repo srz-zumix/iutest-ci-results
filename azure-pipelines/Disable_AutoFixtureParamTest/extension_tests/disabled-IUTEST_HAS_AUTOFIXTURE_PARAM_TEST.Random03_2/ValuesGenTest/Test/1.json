@@ -3,13 +3,13 @@
     "name": "Test/1", 
     "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.Random03_2/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "938", 
-        "Test/2": "886", 
-        "Test/1": "212", 
-        "Test/0": "785", 
-        "Test/4": "689"
+        "Test/3": "526", 
+        "Test/2": "112", 
+        "Test/1": "101", 
+        "Test/0": "439", 
+        "Test/4": "587"
     }
 }
