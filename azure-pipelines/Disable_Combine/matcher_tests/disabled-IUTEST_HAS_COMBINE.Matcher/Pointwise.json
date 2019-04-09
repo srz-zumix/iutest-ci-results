@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Pointwise", 
+    "classname": "disabled-IUTEST_HAS_COMBINE.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
