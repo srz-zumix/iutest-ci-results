@@ -3,7 +3,7 @@
     "name": "Bar12", 
     "classname": "disabled-IUTEST_HAS_PARAM_TEST.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.1", 
+    "time": "0.101", 
     "testsuite_attrib": {
         "skipped": "0"
     }

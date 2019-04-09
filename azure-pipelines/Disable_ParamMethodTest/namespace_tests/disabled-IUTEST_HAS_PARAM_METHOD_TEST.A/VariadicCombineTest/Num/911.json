@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Num/347", 
-    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.A/VariadicCombineTest", 
+    "name": "Num/911", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.A/VariadicCombineTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {

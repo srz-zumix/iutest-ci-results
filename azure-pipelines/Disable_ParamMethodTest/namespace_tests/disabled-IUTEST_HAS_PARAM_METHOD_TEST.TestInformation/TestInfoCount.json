@@ -3,7 +3,7 @@
     "name": "TestInfoCount", 
     "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.TestInformation", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "1"
     }
