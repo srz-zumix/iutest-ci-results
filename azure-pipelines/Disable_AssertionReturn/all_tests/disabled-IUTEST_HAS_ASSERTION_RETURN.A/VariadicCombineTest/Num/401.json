@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Num/9", 
-    "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.A/VariadicCombineTest", 
+    "name": "Num/401", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.A/VariadicCombineTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
