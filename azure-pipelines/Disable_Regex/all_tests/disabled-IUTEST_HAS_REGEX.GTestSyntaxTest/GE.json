@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "GE", 
+    "classname": "disabled-IUTEST_HAS_REGEX.GTestSyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
