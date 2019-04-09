@@ -3,7 +3,7 @@
     "name": "Bar19", 
     "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.101", 
+    "time": "0.1", 
     "testsuite_attrib": {
         "skipped": "0"
     }

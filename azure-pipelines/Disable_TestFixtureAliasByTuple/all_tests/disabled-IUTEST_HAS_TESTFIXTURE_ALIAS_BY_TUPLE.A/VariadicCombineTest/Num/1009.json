@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "Num/475", 
+    "name": "Num/1009", 
     "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.A/VariadicCombineTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "Num/381": "(0, 1, 0, 1, 1, 1, 1, 1, 0, 1)", 
         "Num/380": "(0, 1, 0, 1, 1, 1, 1, 1, 0, 0)", 
