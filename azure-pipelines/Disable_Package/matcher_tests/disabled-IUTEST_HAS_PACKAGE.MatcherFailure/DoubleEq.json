@@ -3,7 +3,7 @@
     "name": "DoubleEq", 
     "classname": "disabled-IUTEST_HAS_PACKAGE.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0.004", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
