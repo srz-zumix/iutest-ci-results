@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar19", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.101", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

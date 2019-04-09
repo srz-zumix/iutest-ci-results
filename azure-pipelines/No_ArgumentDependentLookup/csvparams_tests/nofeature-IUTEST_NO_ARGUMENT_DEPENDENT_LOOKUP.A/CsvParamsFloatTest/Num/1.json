@@ -1,0 +1,20 @@
+{
+    "status": "run", 
+    "name": "Num/1", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.A/CsvParamsFloatTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Num/0": "4-Byte object < CD CC CC 3D >", 
+        "Num/1": "4-Byte object < CD CC 4C 3E >", 
+        "Num/2": "4-Byte object < 9A 99 99 3E >", 
+        "Num/3": "4-Byte object < C3 F5 48 40 >", 
+        "Num/4": "4-Byte object < CD CC 8C BF >", 
+        "Param/4": "4-Byte object < CD CC 8C BF >", 
+        "Param/1": "4-Byte object < CD CC 4C 3E >", 
+        "Param/0": "4-Byte object < CD CC CC 3D >", 
+        "Param/3": "4-Byte object < C3 F5 48 40 >", 
+        "Param/2": "4-Byte object < 9A 99 99 3E >"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Print", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.TypedPrintToTest/7", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "unsigned long"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.My1/WithAnyParamTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "BadCast/0": "8-Byte object < 80 E5 20 02 00 00 00 00 >", 
+        "skipped": "0", 
+        "Test/0": "8-Byte object < B0 4A 21 02 00 00 00 00 >"
+    }
+}

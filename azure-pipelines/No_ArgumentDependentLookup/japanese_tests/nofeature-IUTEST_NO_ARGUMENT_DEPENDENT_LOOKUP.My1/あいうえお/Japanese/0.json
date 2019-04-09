@@ -1,0 +1,12 @@
+{
+    "status": "run", 
+    "name": "Japanese/0", 
+    "classname": "nofeature-IUTEST_NO_ARGUMENT_DEPENDENT_LOOKUP.My1/あいうえお", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Japanese/0": "0", 
+        "skipped": "0", 
+        "あいうえお/0": "0"
+    }
+}
