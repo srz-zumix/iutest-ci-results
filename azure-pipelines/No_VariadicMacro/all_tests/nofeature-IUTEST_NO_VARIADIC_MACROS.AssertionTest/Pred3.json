@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Pred3", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.AssertionTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

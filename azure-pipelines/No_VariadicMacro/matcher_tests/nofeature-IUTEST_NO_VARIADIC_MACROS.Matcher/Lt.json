@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Lt", 
+    "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
