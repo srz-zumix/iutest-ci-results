@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "CONTAINS_REGEXEQ", 
-    "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.AssertionTest", 
+    "name": "RemoveFileName", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.FilePath", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
