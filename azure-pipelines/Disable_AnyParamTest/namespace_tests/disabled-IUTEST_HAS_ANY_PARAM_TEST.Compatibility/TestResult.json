@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "TestResult", 
+    "classname": "disabled-IUTEST_HAS_ANY_PARAM_TEST.Compatibility", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

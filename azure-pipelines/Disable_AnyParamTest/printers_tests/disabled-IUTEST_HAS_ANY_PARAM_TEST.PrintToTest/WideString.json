@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "WideString", 
+    "classname": "disabled-IUTEST_HAS_ANY_PARAM_TEST.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

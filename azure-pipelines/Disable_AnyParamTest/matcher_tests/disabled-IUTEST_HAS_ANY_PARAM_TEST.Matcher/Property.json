@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Property", 
+    "classname": "disabled-IUTEST_HAS_ANY_PARAM_TEST.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
