@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ValueSTREQ", 
+    "classname": "disabled-IUTEST_HAS_ASSERTION_NOEQUALTO_OBJECT.ExceptionFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
