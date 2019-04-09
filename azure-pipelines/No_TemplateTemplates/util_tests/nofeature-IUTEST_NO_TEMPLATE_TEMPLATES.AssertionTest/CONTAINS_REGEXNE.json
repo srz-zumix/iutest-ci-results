@@ -3,7 +3,7 @@
     "name": "CONTAINS_REGEXNE", 
     "classname": "nofeature-IUTEST_NO_TEMPLATE_TEMPLATES.AssertionTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
