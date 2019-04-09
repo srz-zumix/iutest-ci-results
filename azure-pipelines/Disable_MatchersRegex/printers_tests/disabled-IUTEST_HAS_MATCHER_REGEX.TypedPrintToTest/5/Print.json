@@ -3,7 +3,7 @@
     "name": "Print", 
     "classname": "disabled-IUTEST_HAS_MATCHER_REGEX.TypedPrintToTest/5", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "type_param": "unsigned int"
