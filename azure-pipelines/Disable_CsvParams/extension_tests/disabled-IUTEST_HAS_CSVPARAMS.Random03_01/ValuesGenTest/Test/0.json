@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/0", 
+    "classname": "disabled-IUTEST_HAS_CSVPARAMS.Random03_01/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "1270196242", 
+        "Test/2": "-591117625", 
+        "Test/1": "-38696258", 
+        "Test/0": "1565878418", 
+        "Test/4": "-1118681074"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Output", 
+    "classname": "disabled-IUTEST_HAS_CSVPARAMS.LoggerTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
