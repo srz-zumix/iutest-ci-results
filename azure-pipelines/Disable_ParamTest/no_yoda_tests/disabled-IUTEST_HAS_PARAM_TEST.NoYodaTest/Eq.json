@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "LT", 
-    "classname": "disabled-IUTEST_HAS_PARAM_TEST.GTestSyntaxTest", 
+    "name": "Eq", 
+    "classname": "disabled-IUTEST_HAS_PARAM_TEST.NoYodaTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
