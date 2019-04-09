@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Monadic", 
-    "classname": "disabled-IUTEST_HAS_PEEP.Expression", 
+    "name": "LE", 
+    "classname": "disabled-IUTEST_HAS_STREAM_RESULT.GTestSyntaxTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
