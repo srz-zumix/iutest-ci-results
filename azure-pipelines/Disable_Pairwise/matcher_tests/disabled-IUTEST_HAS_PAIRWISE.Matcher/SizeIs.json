@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "SizeIs", 
+    "classname": "disabled-IUTEST_HAS_PAIRWISE.Matcher", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
