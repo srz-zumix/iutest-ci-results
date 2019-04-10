@@ -1,0 +1,11 @@
+{
+    "status": "run", 
+    "name": "Get", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.MultiTypedTest/0", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "type_param": "iutest::Types<int, float>"
+    }
+}
