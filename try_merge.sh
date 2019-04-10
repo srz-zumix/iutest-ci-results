@@ -7,7 +7,7 @@ function resolve_conflict() {
 #   git status
   for conflict in `git diff --name-only --diff-filter=U`; do
     echo $conflict
-    git checkout --theirs "$conflict" && git add "$conflict" || git rm  "$conflict"
+    git checkout --theirs "$conflict" 2>/dev/null && git add "$conflict" || git rm "$conflict"
   done
   set -x
   git commit --file .git/MERGE_MSG
