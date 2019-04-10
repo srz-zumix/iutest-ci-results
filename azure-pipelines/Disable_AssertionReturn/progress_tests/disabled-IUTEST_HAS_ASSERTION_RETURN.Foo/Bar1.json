@@ -3,7 +3,7 @@
     "name": "Bar1", 
     "classname": "disabled-IUTEST_HAS_ASSERTION_RETURN.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.101", 
+    "time": "0.1", 
     "testsuite_attrib": {
         "skipped": "0"
     }
