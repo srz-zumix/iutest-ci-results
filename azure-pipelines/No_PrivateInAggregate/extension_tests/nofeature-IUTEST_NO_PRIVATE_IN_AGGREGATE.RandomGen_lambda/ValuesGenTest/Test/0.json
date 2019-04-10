@@ -3,13 +3,13 @@
     "name": "Test/0", 
     "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.RandomGen_lambda/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "1611626236", 
-        "Test/2": "-27954123", 
-        "Test/1": "-359125511", 
-        "Test/0": "-1696148596", 
-        "Test/4": "-858147902"
+        "Test/3": "-1730529977", 
+        "Test/2": "1590558274", 
+        "Test/1": "-1908159056", 
+        "Test/0": "-1476546873", 
+        "Test/4": "-769967347"
     }
 }
