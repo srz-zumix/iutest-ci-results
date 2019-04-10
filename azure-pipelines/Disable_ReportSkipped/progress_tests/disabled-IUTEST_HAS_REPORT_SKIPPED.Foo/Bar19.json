@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar19", 
+    "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.101", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
