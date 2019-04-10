@@ -3,7 +3,7 @@
     "name": "ValueSTRCASEEQ", 
     "classname": "disabled-IUTEST_HAS_COMBINE.Exception", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
