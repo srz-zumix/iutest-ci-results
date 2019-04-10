@@ -46,7 +46,7 @@ for i in `seq 0 ${RETRY}`; do
     fi
     exit 0
   else
-    git merge --abort
+    git merge --abort 2>/dev/null
     git checkout ${TARGET_BRANCH}
     sleep $[ ($RANDOM % 10) + 1 + i ]s
   fi
