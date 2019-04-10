@@ -1,0 +1,24 @@
+{
+    "status": "run", 
+    "name": "Num/5", 
+    "classname": "disabled-IUTEST_HAS_MATCHERS.CSV/CsvParamsIntTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Num/0": "1", 
+        "Num/1": "2", 
+        "Num/2": "3", 
+        "Num/3": "4", 
+        "Num/4": "5", 
+        "Num/5": "-1", 
+        "Num/6": "100", 
+        "Param/5": "-1", 
+        "Param/4": "5", 
+        "Param/6": "100", 
+        "Param/1": "2", 
+        "Param/0": "1", 
+        "Param/3": "4", 
+        "Param/2": "3"
+    }
+}
