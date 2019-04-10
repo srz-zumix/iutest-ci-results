@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "UnitTest", 
-    "classname": "disabled-IUTEST_HAS_PARAM_TEST.Compatibility", 
+    "name": "Bar0", 
+    "classname": "disabled-IUTEST_HAS_PARAM_TEST.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.101", 
     "testsuite_attrib": {
         "skipped": "0"
     }

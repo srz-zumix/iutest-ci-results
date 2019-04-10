@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "FatalFailure", 
-    "classname": "disabled-IUTEST_HAS_PARAM_TEST.SPITest", 
+    "name": "LongDoubleNear", 
+    "classname": "disabled-IUTEST_HAS_PARAM_TEST.MatcherFailure", 
     "testsuites_attrib": {}, 
     "time": "0.002", 
     "testsuite_attrib": {

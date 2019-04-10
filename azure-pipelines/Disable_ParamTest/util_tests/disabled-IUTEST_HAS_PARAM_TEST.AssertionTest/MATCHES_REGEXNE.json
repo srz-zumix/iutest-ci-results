@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Arithmetic", 
-    "classname": "disabled-IUTEST_HAS_PARAM_TEST.ExpressionNotFail", 
+    "name": "MATCHES_REGEXNE", 
+    "classname": "disabled-IUTEST_HAS_PARAM_TEST.AssertionTest", 
     "testsuites_attrib": {}, 
     "time": "0", 
     "testsuite_attrib": {
