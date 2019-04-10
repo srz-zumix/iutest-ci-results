@@ -3,7 +3,7 @@
     "name": "NanSensitiveDoubleNear", 
     "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
