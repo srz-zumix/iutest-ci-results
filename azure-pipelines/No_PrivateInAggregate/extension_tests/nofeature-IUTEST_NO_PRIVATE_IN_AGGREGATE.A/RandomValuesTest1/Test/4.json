@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/4", 
+    "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.A/RandomValuesTest1", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-1212193214", 
+        "Test/2": "1120807053", 
+        "Test/1": "2016757700", 
+        "Test/0": "-2052500735", 
+        "Test/4": "2017532655"
+    }
+}
