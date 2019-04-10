@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "RemoveExtension", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.FilePath", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

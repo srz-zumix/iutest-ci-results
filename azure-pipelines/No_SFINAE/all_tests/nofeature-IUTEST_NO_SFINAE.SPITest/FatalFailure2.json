@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "FatalFailure2", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.SPITest", 
+    "testsuites_attrib": {}, 
+    "time": "0.004", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

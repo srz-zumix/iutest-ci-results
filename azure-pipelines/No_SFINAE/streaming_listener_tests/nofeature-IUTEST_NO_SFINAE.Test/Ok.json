@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Ok", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.Test", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "ExceptionValueSTRCASEEQ", 
+    "classname": "nofeature-IUTEST_NO_SFINAE.SyntaxTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
