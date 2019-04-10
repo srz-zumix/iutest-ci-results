@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "UnitTest", 
-    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.Compatibility", 
+    "name": "ValueSTREQ", 
+    "classname": "disabled-IUTEST_TYPED_TEST_P_STRICT.ExceptionFailure", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
