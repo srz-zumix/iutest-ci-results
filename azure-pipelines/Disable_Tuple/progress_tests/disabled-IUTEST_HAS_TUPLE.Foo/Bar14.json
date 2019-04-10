@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar14", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.101", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
