@@ -3,13 +3,13 @@
     "name": "Test/3", 
     "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.RandomGen_lambda/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-1584073900", 
-        "Test/2": "427419453", 
-        "Test/1": "-187903468", 
-        "Test/0": "741998364", 
-        "Test/4": "1119238501"
+        "Test/3": "1013931715", 
+        "Test/2": "-1911793573", 
+        "Test/1": "1042823482", 
+        "Test/0": "-543932825", 
+        "Test/4": "1115043887"
     }
 }
