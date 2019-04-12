@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Comparison", 
-    "classname": "disabled-IUTEST_HAS_VALUESGEN.ExpressionFail", 
+    "name": "CONTAINS_REGEXEQ", 
+    "classname": "disabled-IUTEST_HAS_VALUESGEN.AssertionTest", 
     "testsuites_attrib": {}, 
     "time": "0", 
     "testsuite_attrib": {
