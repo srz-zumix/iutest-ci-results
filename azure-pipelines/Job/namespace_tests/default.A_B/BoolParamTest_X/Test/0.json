@@ -3,7 +3,7 @@
     "name": "Test/0", 
     "classname": "default.A_B/BoolParamTest_X", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Test/1": "true", 
