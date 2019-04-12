@@ -3,7 +3,7 @@
     "name": "Bar13", 
     "classname": "disabled-IUTEST_HAS_PEEP_CLASS.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.1", 
+    "time": "0.101", 
     "testsuite_attrib": {
         "skipped": "0"
     }
