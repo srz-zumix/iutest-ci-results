@@ -3,7 +3,7 @@
     "name": "NonFatalFailure2", 
     "classname": "disabled-IUTEST_HAS_BITWISE_EXPRESSION_DECOMPOSE.SPITest", 
     "testsuites_attrib": {}, 
-    "time": "0.003", 
+    "time": "0.009", 
     "testsuite_attrib": {
         "skipped": "0"
     }
