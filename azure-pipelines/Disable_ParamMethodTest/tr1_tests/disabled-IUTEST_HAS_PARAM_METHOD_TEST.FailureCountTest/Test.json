@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Test", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.FailureCountTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

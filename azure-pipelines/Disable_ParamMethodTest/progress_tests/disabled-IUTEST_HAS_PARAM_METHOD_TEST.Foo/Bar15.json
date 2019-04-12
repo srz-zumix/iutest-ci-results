@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bar15", 
+    "classname": "disabled-IUTEST_HAS_PARAM_METHOD_TEST.Foo", 
+    "testsuites_attrib": {}, 
+    "time": "0.101", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
