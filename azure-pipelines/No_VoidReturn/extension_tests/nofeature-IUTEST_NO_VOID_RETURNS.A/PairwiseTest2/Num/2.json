@@ -1,0 +1,14 @@
+{
+    "status": "run", 
+    "name": "Num/2", 
+    "classname": "nofeature-IUTEST_NO_VOID_RETURNS.A/PairwiseTest2", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "Num/0": "(0, 0)", 
+        "Num/1": "(0, 1)", 
+        "Num/2": "(1, 1)", 
+        "skipped": "0", 
+        "Num/3": "(1, 0)"
+    }
+}
