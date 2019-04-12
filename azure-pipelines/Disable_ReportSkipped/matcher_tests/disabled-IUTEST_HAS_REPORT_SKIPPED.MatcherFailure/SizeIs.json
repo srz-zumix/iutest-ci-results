@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "EQ_RANGE", 
-    "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.AssertionTest", 
+    "name": "SizeIs", 
+    "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.MatcherFailure", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
