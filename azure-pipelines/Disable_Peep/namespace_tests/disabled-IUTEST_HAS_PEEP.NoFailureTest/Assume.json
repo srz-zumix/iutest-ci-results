@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "RemoveExtension", 
-    "classname": "disabled-IUTEST_HAS_PEEP.FilePath", 
+    "name": "Assume", 
+    "classname": "disabled-IUTEST_HAS_PEEP.NoFailureTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
