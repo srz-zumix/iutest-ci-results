@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Assert", 
+    "classname": "disabled-IUTEST_HAS_PACKAGE.NoFailureTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

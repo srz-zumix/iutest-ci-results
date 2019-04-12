@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "StringStrip", 
+    "classname": "Test.UnitTest", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
