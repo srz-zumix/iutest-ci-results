@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "MATCHES_REGEXNE", 
-    "classname": "disabled-IUTEST_HAS_PARAM_TEST.AssertionTest", 
+    "name": "MatchesRegex", 
+    "classname": "disabled-IUTEST_HAS_PARAM_TEST.Matcher", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
