@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "Contains", 
-    "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.Matcher", 
+    "name": "Bar0", 
+    "classname": "disabled-IUTEST_HAS_STREAM_CAPTURE.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.101", 
     "testsuite_attrib": {
         "skipped": "0"
     }
