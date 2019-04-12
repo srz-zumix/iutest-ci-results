@@ -3,7 +3,7 @@
     "name": "B/0", 
     "classname": "disabled-IUTEST_HAS_PACKAGE.B/PackageParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.002", 
     "testsuite_attrib": {
         "B/0": "0", 
         "B/1": "1", 
