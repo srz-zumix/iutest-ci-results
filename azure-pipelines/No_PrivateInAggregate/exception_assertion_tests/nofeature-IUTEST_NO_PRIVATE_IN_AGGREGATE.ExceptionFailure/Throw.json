@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Throw", 
+    "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.ExceptionFailure", 
+    "testsuites_attrib": {}, 
+    "time": "0.001", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
