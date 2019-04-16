@@ -3,7 +3,7 @@
     "name": "MATCHES_REGEXNE", 
     "classname": "nofeature-IUTEST_NO_PRIVATE_IN_AGGREGATE.AssertionTest", 
     "testsuites_attrib": {}, 
-    "time": "0.002", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
