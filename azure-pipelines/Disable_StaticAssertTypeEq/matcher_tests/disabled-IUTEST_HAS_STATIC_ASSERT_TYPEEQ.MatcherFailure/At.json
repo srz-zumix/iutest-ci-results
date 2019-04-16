@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "HasSubstr", 
+    "name": "At", 
     "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }

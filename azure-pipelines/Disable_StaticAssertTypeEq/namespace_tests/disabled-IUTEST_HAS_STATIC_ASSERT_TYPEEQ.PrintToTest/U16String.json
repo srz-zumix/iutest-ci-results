@@ -1,6 +1,6 @@
 {
     "status": "run", 
-    "name": "String", 
+    "name": "U16String", 
     "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.PrintToTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
