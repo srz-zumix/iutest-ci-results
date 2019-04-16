@@ -3,7 +3,7 @@
     "name": "Test/2", 
     "classname": "disabled-IUTEST_HAS_PARAM_TEST_PARAM_NAME_GENERATOR.Values/ParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Test/2": "10", 
