@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Inform", 
-    "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSAREARRAYFORWARD.NoFatalFailureTest", 
+    "name": "Pointee", 
+    "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSAREARRAYFORWARD.MatcherFailure", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {

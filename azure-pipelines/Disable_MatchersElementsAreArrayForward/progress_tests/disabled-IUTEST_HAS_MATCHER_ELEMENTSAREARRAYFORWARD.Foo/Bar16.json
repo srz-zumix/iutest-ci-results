@@ -1,6 +1,6 @@
 {
     "status": "run", 
-    "name": "Bar8", 
+    "name": "Bar16", 
     "classname": "disabled-IUTEST_HAS_MATCHER_ELEMENTSAREARRAYFORWARD.Foo", 
     "testsuites_attrib": {}, 
     "time": "0.101", 
