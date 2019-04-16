@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "UnitTest", 
-    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.Compatibility", 
+    "name": "LongDoubleEq", 
+    "classname": "disabled-IUTEST_HAS_SPI_LAMBDA_SUPPORT.MatcherFailure", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
