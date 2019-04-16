@@ -5,10 +5,10 @@
     "testsuites_attrib": {}, 
     "time": "", 
     "testsuite_attrib": {
-        "Num/0": "(1, 1)", 
+        "Num/0": "(0, 1)", 
         "Num/1": "(1, 0)", 
-        "Num/2": "(0, 1)", 
+        "Num/2": "(0, 0)", 
         "skipped": "0", 
-        "Num/3": "(0, 0)"
+        "Num/3": "(1, 1)"
     }
 }
