@@ -3,7 +3,7 @@
     "name": "NoThrow", 
     "classname": "disabled-IUTEST_HAS_REPORT_SKIPPED.ExceptionFailure", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0"
     }
