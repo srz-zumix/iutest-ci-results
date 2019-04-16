@@ -3,7 +3,7 @@
     "name": "A/0", 
     "classname": "pkg1.B/PackageParamTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "B/0": "0", 
         "B/1": "1", 
