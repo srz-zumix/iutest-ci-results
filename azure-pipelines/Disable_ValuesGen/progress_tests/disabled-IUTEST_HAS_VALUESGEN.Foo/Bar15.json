@@ -1,6 +1,6 @@
 {
     "status": "run", 
-    "name": "Bar7", 
+    "name": "Bar15", 
     "classname": "disabled-IUTEST_HAS_VALUESGEN.Foo", 
     "testsuites_attrib": {}, 
     "time": "0.101", 

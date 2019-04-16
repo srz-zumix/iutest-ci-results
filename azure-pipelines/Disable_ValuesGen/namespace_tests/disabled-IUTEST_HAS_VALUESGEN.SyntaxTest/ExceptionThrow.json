@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Key", 
-    "classname": "disabled-IUTEST_HAS_VALUESGEN.MatcherFailure", 
+    "name": "ExceptionThrow", 
+    "classname": "disabled-IUTEST_HAS_VALUESGEN.SyntaxTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
