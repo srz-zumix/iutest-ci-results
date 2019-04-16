@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "XmlEscape", 
-    "classname": "Test.UnitTest", 
+    "name": "Bar16", 
+    "classname": "disabled-IUTEST_HAS_STATIC_ASSERT_TYPEEQ.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.101", 
     "testsuite_attrib": {
         "skipped": "0"
     }
