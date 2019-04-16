@@ -3,7 +3,7 @@
     "name": "Num/1", 
     "classname": "nofeature-IUTEST_NO_VARIADIC_MACROS.A/CombineTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "(false, 1, 0)", 
