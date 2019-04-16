@@ -1,9 +1,9 @@
 {
     "status": "run", 
-    "name": "Bar2", 
-    "classname": "disabled-IUTEST_HAS_TUPLE.Foo", 
+    "name": "Eq", 
+    "classname": "disabled-IUTEST_HAS_TUPLE.MatcherFailure", 
     "testsuites_attrib": {}, 
-    "time": "0.1", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
