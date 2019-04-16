@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_PACKAGE.A/RandomValuesTest3", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "0.57259", 
-        "Test/2": "0.493365", 
-        "Test/1": "0.000341012", 
-        "Test/0": "0.43208", 
-        "Test/4": "0.101945"
+        "Test/3": "0.0712638", 
+        "Test/2": "0.253364", 
+        "Test/1": "0.506374", 
+        "Test/0": "0.268358", 
+        "Test/4": "0.807261"
     }
 }
