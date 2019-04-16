@@ -3,7 +3,7 @@
     "name": "Each", 
     "classname": "disabled-IUTEST_HAS_AUTOFIXTURE_PARAM_TEST.Matcher", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0"
     }
