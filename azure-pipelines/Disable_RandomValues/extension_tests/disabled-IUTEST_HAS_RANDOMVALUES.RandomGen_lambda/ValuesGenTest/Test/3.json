@@ -3,13 +3,13 @@
     "name": "Test/3", 
     "classname": "disabled-IUTEST_HAS_RANDOMVALUES.RandomGen_lambda/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "612842138", 
-        "Test/2": "1944292932", 
-        "Test/1": "-1543389127", 
-        "Test/0": "-175097801", 
-        "Test/4": "1352855485"
+        "Test/3": "-1779965713", 
+        "Test/2": "-748005466", 
+        "Test/1": "1891073869", 
+        "Test/0": "635433279", 
+        "Test/4": "1332456805"
     }
 }
