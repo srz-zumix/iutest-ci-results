@@ -3,7 +3,7 @@
     "name": "CONTAINS_REGEXNE", 
     "classname": "disabled-IUTEST_HAS_STREAM_RESULT.AssertionTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0.002", 
     "testsuite_attrib": {
         "skipped": "0"
     }
