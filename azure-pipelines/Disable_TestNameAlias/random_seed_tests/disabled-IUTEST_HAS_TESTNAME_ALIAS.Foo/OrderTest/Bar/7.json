@@ -3,7 +3,7 @@
     "name": "Bar/7", 
     "classname": "disabled-IUTEST_HAS_TESTNAME_ALIAS.Foo/OrderTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Bar/9": "9", 
