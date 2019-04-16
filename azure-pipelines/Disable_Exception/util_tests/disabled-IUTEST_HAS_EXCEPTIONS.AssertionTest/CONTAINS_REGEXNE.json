@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "ContainsRegex", 
-    "classname": "disabled-IUTEST_HAS_EXCEPTIONS.MatcherFailure", 
+    "name": "CONTAINS_REGEXNE", 
+    "classname": "disabled-IUTEST_HAS_EXCEPTIONS.AssertionTest", 
     "testsuites_attrib": {}, 
     "time": "0", 
     "testsuite_attrib": {

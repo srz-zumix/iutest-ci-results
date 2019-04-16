@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Comparison", 
-    "classname": "disabled-IUTEST_HAS_EXCEPTIONS.Expression", 
+    "name": "Assert", 
+    "classname": "disabled-IUTEST_HAS_EXCEPTIONS.NoFatalFailureTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {
