@@ -3,7 +3,7 @@
     "name": "Param/4", 
     "classname": "disabled-IUTEST_HAS_BITWISE_EXPRESSION_DECOMPOSE.A/CombineTest", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
         "Num/0": "(false, 1, 0)", 
