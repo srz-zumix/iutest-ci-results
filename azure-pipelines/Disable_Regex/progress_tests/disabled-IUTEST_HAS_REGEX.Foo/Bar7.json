@@ -3,7 +3,7 @@
     "name": "Bar7", 
     "classname": "disabled-IUTEST_HAS_REGEX.Foo", 
     "testsuites_attrib": {}, 
-    "time": "0.101", 
+    "time": "0.1", 
     "testsuite_attrib": {
         "skipped": "0"
     }
