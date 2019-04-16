@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "TypedEq", 
-    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.MatcherFailure", 
+    "name": "Throw", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.ExceptionFailure", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {

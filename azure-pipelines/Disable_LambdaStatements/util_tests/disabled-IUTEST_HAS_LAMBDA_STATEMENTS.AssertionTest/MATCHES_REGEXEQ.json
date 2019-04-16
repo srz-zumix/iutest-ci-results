@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Field", 
-    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.Matcher", 
+    "name": "MATCHES_REGEXEQ", 
+    "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.AssertionTest", 
     "testsuites_attrib": {}, 
     "time": "0", 
     "testsuite_attrib": {

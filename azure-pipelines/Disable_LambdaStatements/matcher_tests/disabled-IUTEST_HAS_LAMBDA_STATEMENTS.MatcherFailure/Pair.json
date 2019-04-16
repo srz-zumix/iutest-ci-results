@@ -1,6 +1,6 @@
 {
     "status": "run", 
-    "name": "TypedEq", 
+    "name": "Pair", 
     "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.MatcherFailure", 
     "testsuites_attrib": {}, 
     "time": "0.001", 

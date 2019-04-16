@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "disabled-IUTEST_HAS_LAMBDA_STATEMENTS.A/RandomValuesTest2", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "-22", 
-        "Test/2": "-25", 
-        "Test/1": "'P'", 
-        "Test/0": "''", 
-        "Test/4": "' '"
+        "Test/3": "-110", 
+        "Test/2": "21", 
+        "Test/1": "'K'", 
+        "Test/0": "19", 
+        "Test/4": "-1"
     }
 }
