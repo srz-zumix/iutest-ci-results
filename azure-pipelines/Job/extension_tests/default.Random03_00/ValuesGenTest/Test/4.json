@@ -3,13 +3,13 @@
     "name": "Test/4", 
     "classname": "default.Random03_00/ValuesGenTest", 
     "testsuites_attrib": {}, 
-    "time": "0.001", 
+    "time": "0", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "999", 
-        "Test/2": "505", 
-        "Test/1": "463", 
-        "Test/0": "188", 
-        "Test/4": "559"
+        "Test/3": "562", 
+        "Test/2": "868", 
+        "Test/1": "273", 
+        "Test/0": "436", 
+        "Test/4": "588"
     }
 }
