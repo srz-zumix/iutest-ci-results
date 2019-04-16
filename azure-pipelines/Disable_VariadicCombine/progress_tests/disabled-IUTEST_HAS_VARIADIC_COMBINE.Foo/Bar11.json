@@ -1,6 +1,6 @@
 {
     "status": "run", 
-    "name": "Bar19", 
+    "name": "Bar11", 
     "classname": "disabled-IUTEST_HAS_VARIADIC_COMBINE.Foo", 
     "testsuites_attrib": {}, 
     "time": "0.101", 

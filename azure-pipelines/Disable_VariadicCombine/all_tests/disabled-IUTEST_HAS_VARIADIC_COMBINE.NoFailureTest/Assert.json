@@ -1,7 +1,7 @@
 {
     "status": "run", 
-    "name": "Overload", 
-    "classname": "disabled-IUTEST_HAS_VARIADIC_COMBINE.PrintToTest", 
+    "name": "Assert", 
+    "classname": "disabled-IUTEST_HAS_VARIADIC_COMBINE.NoFailureTest", 
     "testsuites_attrib": {}, 
     "time": "0.001", 
     "testsuite_attrib": {

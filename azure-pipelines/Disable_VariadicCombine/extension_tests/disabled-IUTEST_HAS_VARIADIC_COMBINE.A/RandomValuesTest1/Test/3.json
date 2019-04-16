@@ -3,13 +3,13 @@
     "name": "Test/3", 
     "classname": "disabled-IUTEST_HAS_VARIADIC_COMBINE.A/RandomValuesTest1", 
     "testsuites_attrib": {}, 
-    "time": "0", 
+    "time": "0.001", 
     "testsuite_attrib": {
         "skipped": "0", 
-        "Test/3": "631131069", 
-        "Test/2": "729081543", 
-        "Test/1": "1370399751", 
-        "Test/0": "-338109437", 
-        "Test/4": "143373257"
+        "Test/3": "2140998679", 
+        "Test/2": "-1213840453", 
+        "Test/1": "41697181", 
+        "Test/0": "1139859732", 
+        "Test/4": "-1147028815"
     }
 }
