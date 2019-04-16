@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/4", 
+    "classname": "nofeature-IUTEST_NO_TEMPLATE_PARTIAL_SPECIALIZATION.RandomGen_lambda/ValuesGenTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "-1625914998", 
+        "Test/2": "-1182196550", 
+        "Test/1": "1681862004", 
+        "Test/0": "-62544755", 
+        "Test/4": "1319517993"
+    }
+}
