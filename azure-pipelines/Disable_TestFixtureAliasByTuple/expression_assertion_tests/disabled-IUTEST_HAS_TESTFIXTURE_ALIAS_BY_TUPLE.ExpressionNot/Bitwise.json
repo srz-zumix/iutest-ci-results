@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "Bitwise", 
+    "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.ExpressionNot", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}

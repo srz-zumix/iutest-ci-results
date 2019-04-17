@@ -1,0 +1,15 @@
+{
+    "status": "run", 
+    "name": "Test/2", 
+    "classname": "disabled-IUTEST_HAS_TESTFIXTURE_ALIAS_BY_TUPLE.A/RandomValuesTest3", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0", 
+        "Test/3": "0.597411", 
+        "Test/2": "0.41079", 
+        "Test/1": "0.754688", 
+        "Test/0": "0.257113", 
+        "Test/4": "0.28469"
+    }
+}
