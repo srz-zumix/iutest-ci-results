@@ -1,0 +1,10 @@
+{
+    "status": "run", 
+    "name": "IutestAnyString", 
+    "classname": "disabled-IUTEST_HAS_MATCHERS.PrintToTest", 
+    "testsuites_attrib": {}, 
+    "time": "0", 
+    "testsuite_attrib": {
+        "skipped": "0"
+    }
+}
